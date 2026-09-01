@@ -1,0 +1,300 @@
+13/08/26 13:03:44,948 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 13/08/26 13:03:53,004 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.t.async.QueueDeletionOfObsoleteDocuments:685a056b97bd(metadata=null, state=COMPLETED, priority=ABOVE_NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-13T13:03:52.999898896Z, pending=3ms, running=0ms, lifetime=3ms)) 
+]
+ 13/08/26 13:04:11,660 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 13/08/26 13:04:11,661 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 13/08/26 13:04:11,675 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 13/08/26 13:04:11,675 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 13/08/26 13:04:11,677 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 13/08/26 13:04:11,677 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 13/08/26 13:51:52,782 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.t.TextIndexManagerBase$BatchIndexingJob:d98d8ff1c7a6(metadata=null, state=RUNNING, priority=NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-13T13:51:51.444490298Z, pending=0ms, running=1s 337ms, lifetime=1s 338ms)) 
+]
+ 13/08/26 15:22:52,248 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.t.TextIndexManagerBase$BatchIndexingJob:c9a76af3dcde(metadata=null, state=RUNNING, priority=NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-13T15:22:51.658470332Z, pending=0ms, running=589ms, lifetime=590ms)) 
+]
+ 13/08/26 16:50:30,507 INFO  [@ Daemon Proxy 2] [MaintenanceJobThreadPool      ] [@] Disabled autoscaling
+ 14/08/26 07:14:44,565 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 14/08/26 07:14:55,001 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 1
+  Running jobs: [
+ j.y.t.async.QueueNotIndexedDocumentsJob:2f1d35fb8270(metadata=null, state=COMPLETED, priority=ABOVE_NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-14T07:14:54.992964855Z, pending=3ms, running=2ms, lifetime=7ms)) 
+]
+ 14/08/26 07:15:11,406 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 14/08/26 07:15:11,407 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 14/08/26 07:15:11,417 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 14/08/26 07:15:11,417 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 14/08/26 07:15:11,418 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 14/08/26 07:15:11,418 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 14/08/26 10:27:53,284 WARN  [e7c5bd0e-604e-80b2-a54d-9872334e3dad@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:344093a09738(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:782982e2afdb in group standalone. 
+ 14/08/26 11:11:59,512 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: []
+ 14/08/26 11:14:59,475 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:af389625239e(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=COMPLETED, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-14T11:14:59.462174271Z, pending=0ms, running=9ms, lifetime=9ms)) 
+]
+ 14/08/26 13:01:35,384 WARN  [175df710-cd33-dc34-f6fa-cd825c212a75@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:26176dc19d2e(status=COMPLETED) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:bcec372685cf in group standalone. 
+ 15/08/26 13:56:27,519 WARN  [3ac6f2ed-9573-ee19-cc9e-781fcdffa37a@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:dbe62679f5f7(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:ee48ee2d88c9 in group standalone. 
+ 15/08/26 14:37:23,482 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:f84b8f622844(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-15T14:37:23.462465219Z, pending=0ms, running=18ms, lifetime=20ms)) 
+]
+ 16/08/26 05:41:21,315 WARN  [e7c5bd0e-604e-80b2-a54d-9872334e3dad@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:4c0e320d43e4(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6b44b13021e3 in group standalone. 
+ 16/08/26 05:41:21,316 WARN  [3ac6f2ed-9573-ee19-cc9e-781fcdffa37a@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6b44b13021e3(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:97fcb6ee3d8f in group standalone. 
+ 16/08/26 05:41:21,316 WARN  [175df710-cd33-dc34-f6fa-cd825c212a75@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:97fcb6ee3d8f(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:69873d9ecf6f in group standalone. 
+ 16/08/26 08:43:32,485 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: []
+ 16/08/26 08:45:32,476 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:b6ea1dbf0832(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-16T08:45:32.462931932Z, pending=0ms, running=11ms, lifetime=12ms)) 
+]
+ 16/08/26 10:22:17,877 WARN  [3ac6f2ed-9573-ee19-cc9e-781fcdffa37a@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:bceb801d0ed7(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:e00541070996 in group standalone. 
+ 16/08/26 10:25:50,001 WARN  [3ac6f2ed-9573-ee19-cc9e-781fcdffa37a@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:e042805b43e4(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:8c478479ccbd in group standalone. 
+ 16/08/26 10:42:51,793 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: []
+ 16/08/26 20:47:47,497 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:78e35edc1cfd(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-16T20:47:47.463698153Z, pending=0ms, running=26ms, lifetime=26ms)) 
+]
+ 16/08/26 20:51:47,470 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:9dd44f5f4b55(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=COMPLETED, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-16T20:51:47.461609310Z, pending=0ms, running=8ms, lifetime=8ms)) 
+]
+ 16/08/26 20:52:47,466 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:6f3bb4df522e(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-16T20:52:47.461429875Z, pending=0ms, running=5ms, lifetime=5ms)) 
+]
+ 16/08/26 20:53:47,463 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:0838f7ba2087(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-4, timing=(createdAt=2026-08-16T20:53:47.462405036Z, pending=0ms, running=0ms, lifetime=0ms)) 
+]
+ 17/08/26 06:00:42,137 WARN  [3ac6f2ed-9573-ee19-cc9e-781fcdffa37a@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:a9b907aafc97(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:731031babab4 in group standalone. 
+ 17/08/26 06:00:42,201 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [WorkflowScheduledJobProcessor ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.w.scheduled.WorkflowScheduledRuleJob:4f5c28a9b827(metadata=/opt/youtrack/data/youtrack:@jetbrains/youtrack-workflow-auto-raise-priority/from-major-to-critical-in-10-days, state=RUNNING, priority=NORMAL, executingThread=workflow-scheduled-315, timing=(createdAt=2026-08-17T06:00:42.121182275Z, pending=3ms, running=76ms, lifetime=80ms)) 
+]
+ 17/08/26 07:39:41,476 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:41db5cac7a1f(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-17T07:39:41.461886301Z, pending=0ms, running=13ms, lifetime=14ms)) 
+]
+ 17/08/26 07:41:41,469 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:8f49ad9a498b(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-17T07:41:41.462092429Z, pending=0ms, running=6ms, lifetime=7ms)) 
+]
+ 17/08/26 08:44:11,351 WARN  [f369078e-1777-c86f-af00-60ca38dba507@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:361e87941e21(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6394643eb86a in group standalone. 
+ 17/08/26 08:44:11,352 WARN  [3ac6f2ed-9573-ee19-cc9e-781fcdffa37a@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6394643eb86a(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:052872ba401b in group standalone. 
+ 17/08/26 08:44:11,352 WARN  [175df710-cd33-dc34-f6fa-cd825c212a75@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:052872ba401b(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:f5c6b3b5d516 in group standalone. 
+ 17/08/26 10:03:14,713 WARN  [c6867a99-c1ba-f333-4b0c-aff31e5d2b5c@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:bf6f7dfc071c(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:43479ef58ad9 in group standalone. 
+ 17/08/26 10:03:14,714 WARN  [e7c5bd0e-604e-80b2-a54d-9872334e3dad@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:c912fefbaf63(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:42a41e40a9af in group standalone. 
+ 17/08/26 10:24:35,503 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:65e249b1588b(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=COMPLETED, priority=NORMAL, executingThread=local-scheduling-2, timing=(createdAt=2026-08-17T10:24:35.462078014Z, pending=0ms, running=27ms, lifetime=27ms)) 
+]
+ 17/08/26 10:26:35,465 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:babe71a5ff86(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-17T10:26:35.462131595Z, pending=0ms, running=3ms, lifetime=3ms)) 
+]
+ 18/08/26 09:05:47,988 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 18/08/26 09:05:56,705 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 1
+  Running jobs: [
+ j.y.t.async.QueueNotIndexedDocumentsJob:3a401b5883ab(metadata=null, state=RUNNING, priority=ABOVE_NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-18T09:05:56.698584377Z, pending=2ms, running=2ms, lifetime=6ms)) 
+]
+ 18/08/26 09:06:11,519 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 18/08/26 09:06:11,520 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 18/08/26 09:06:11,531 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 18/08/26 09:06:11,531 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 18/08/26 09:06:11,532 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 18/08/26 09:06:11,532 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 18/08/26 09:28:56,554 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:22a6d5049e16(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-2, timing=(createdAt=2026-08-18T09:28:56.548450364Z, pending=0ms, running=5ms, lifetime=6ms)) 
+]
+ 19/08/26 06:01:41,561 WARN  [f1a32386-9a42-ed55-9323-692bcb7ecee7@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:bd346895e116(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:4c4aed28980a in group standalone. 
+ 19/08/26 06:48:08,554 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:1565d1416b90(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-19T06:48:08.548524027Z, pending=0ms, running=5ms, lifetime=5ms)) 
+]
+ 19/08/26 12:03:53,169 WARN  [9534dd37-1789-234d-016f-a34a56a9243e@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:d60858b3ffc9(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:c5fef55bdd93 in group standalone. 
+ 19/08/26 12:03:53,170 WARN  [00cbb0f4-8a63-8c0d-0d56-730ee14d122f@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:3fde4e193fe2(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:511e233185a2 in group standalone. 
+ 19/08/26 13:16:38,892 WARN  [00cbb0f4-8a63-8c0d-0d56-730ee14d122f@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:3ebc2dbe0e4e(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:66d021e141a2 in group standalone. 
+ 19/08/26 13:24:46,092 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:8bd54b55d950(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-19T13:24:39.078257005Z, pending=0ms, running=7s 2ms, lifetime=7s 2ms)) 
+]
+ 19/08/26 13:36:44,862 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:47d62e47b728(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-2, timing=(createdAt=2026-08-19T13:36:44.558672580Z, pending=0ms, running=292ms, lifetime=293ms)) 
+]
+ 19/08/26 13:40:44,570 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:801d58a93554(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=COMPLETED, priority=NORMAL, executingThread=local-scheduling-4, timing=(createdAt=2026-08-19T13:40:44.549731517Z, pending=0ms, running=18ms, lifetime=19ms)) 
+]
+ 19/08/26 17:47:32,683 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:de520c6f3f62(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-4, timing=(createdAt=2026-08-19T17:47:32.549153928Z, pending=0ms, running=131ms, lifetime=131ms)) 
+]
+ 19/08/26 18:07:32,560 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:fad541b57438(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-19T18:07:32.549036328Z, pending=0ms, running=10ms, lifetime=11ms)) 
+]
+ 19/08/26 18:08:32,551 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:4486e5c70970(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-4, timing=(createdAt=2026-08-19T18:08:32.549063552Z, pending=0ms, running=2ms, lifetime=2ms)) 
+]
+ 20/08/26 07:47:31,825 WARN  [6ceaba04-5244-d2bb-befd-e99a08141dda@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:7c1095598af3(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:f55936a410a6 in group standalone. 
+ 20/08/26 07:56:08,965 INFO  [@ Daemon Proxy 2] [MaintenanceJobThreadPool      ] [@] Disabled autoscaling
+ 20/08/26 07:58:19,376 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 20/08/26 07:58:27,055 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.t.async.QueueNotIndexedDocumentsJob:9ea4924d0c0d(metadata=null, state=COMPLETED, priority=ABOVE_NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-20T07:58:27.048343855Z, pending=2ms, running=1ms, lifetime=6ms)) 
+]
+ 20/08/26 07:58:41,591 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 20/08/26 07:58:41,592 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 20/08/26 07:58:41,602 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 20/08/26 07:58:41,602 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 20/08/26 07:58:41,603 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 20/08/26 07:58:41,603 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 20/08/26 08:00:04,184 INFO  [@ Daemon Proxy 3] [MaintenanceJobThreadPool      ] [@] Disabled autoscaling
+ 21/08/26 09:27:49,049 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 21/08/26 09:27:57,976 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.t.async.QueueNotIndexedDocumentsJob:3b81d7e20539(metadata=null, state=COMPLETED, priority=ABOVE_NORMAL, executingThread=text-index-1, timing=(createdAt=2026-08-21T09:27:57.968891253Z, pending=2ms, running=2ms, lifetime=7ms)) 
+]
+ 21/08/26 09:28:15,732 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 21/08/26 09:28:15,733 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 21/08/26 09:28:15,745 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 21/08/26 09:28:15,745 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 21/08/26 09:28:15,747 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 21/08/26 09:28:15,747 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 21/08/26 11:40:47,557 INFO  [@ Daemon Proxy 2] [MaintenanceJobThreadPool      ] [@] Disabled autoscaling
+ 24/08/26 12:14:01,251 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 24/08/26 12:14:09,765 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 1
+  Running jobs: []
+ 24/08/26 12:14:26,578 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 24/08/26 12:14:26,579 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 24/08/26 12:14:26,587 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 24/08/26 12:14:26,587 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 24/08/26 12:14:26,588 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 24/08/26 12:14:26,588 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 24/08/26 15:46:57,755 WARN  [c6a60836-24cb-7cb4-f93e-54dd59760bac@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:44562cbd9c3b(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:c88bb58e2fdc in group standalone. 
+ 24/08/26 15:46:57,757 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:c88bb58e2fdc(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6d46427b0023 in group standalone. 
+ 24/08/26 18:57:26,662 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:d671a6492756(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-2, timing=(createdAt=2026-08-24T18:57:26.638190322Z, pending=0ms, running=8ms, lifetime=9ms)) 
+]
+ 24/08/26 18:58:26,642 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:d4d80f10027d(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-24T18:58:26.638191709Z, pending=0ms, running=2ms, lifetime=3ms)) 
+]
+ 25/08/26 06:47:07,223 WARN  [c6a60836-24cb-7cb4-f93e-54dd59760bac@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:5a80990fd178(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:8907fe156572 in group standalone. 
+ 25/08/26 06:47:07,224 WARN  [03c03a19-95e4-16c2-969f-068569d6cacf@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:8907fe156572(status=COMPLETED) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:61eaf5ab5def in group standalone. 
+ 25/08/26 07:32:00,013 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: []
+ 25/08/26 10:09:08,415 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:8e29c00bbe0d(status=COMPLETED) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:f033da518146 in group standalone. 
+ 25/08/26 10:09:08,415 WARN  [03c03a19-95e4-16c2-969f-068569d6cacf@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:f033da518146(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:200d0fabd0a4 in group standalone. 
+ 25/08/26 13:20:50,422 WARN  [92308a50-47d5-dbe5-a929-430bbd4d545a@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:e0320f983cb1(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:7954bbbbe317 in group standalone. 
+ 25/08/26 16:16:30,311 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:197dde390a70(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:210b1c5ad7a5 in group standalone. 
+ 25/08/26 16:16:30,311 WARN  [fef606dc-5003-64a1-5edb-ccd00b35ed33@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:210b1c5ad7a5(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:e06a5e5330af in group standalone. 
+ 25/08/26 16:16:30,313 WARN  [92308a50-47d5-dbe5-a929-430bbd4d545a@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:ebf8d99ac044(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6b88fe496ea7 in group standalone. 
+ 25/08/26 18:59:55,081 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:e4ec77993b59(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:60d2aea39952 in group standalone. 
+ 25/08/26 18:59:55,082 WARN  [fef606dc-5003-64a1-5edb-ccd00b35ed33@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:60d2aea39952(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:877eac28359a in group standalone. 
+ 26/08/26 07:03:41,247 WARN  [fef606dc-5003-64a1-5edb-ccd00b35ed33@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:ca09cbc3b8c6(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:2897b33fa053 in group standalone. 
+ 26/08/26 07:03:41,248 WARN  [c6a60836-24cb-7cb4-f93e-54dd59760bac@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:2897b33fa053(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:18304bd6ba46 in group standalone. 
+ 26/08/26 09:34:35,773 WARN  [c6a60836-24cb-7cb4-f93e-54dd59760bac@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:68b2e5cc44a9(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:152a046146e2 in group standalone. 
+ 26/08/26 09:34:35,775 WARN  [03c03a19-95e4-16c2-969f-068569d6cacf@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:152a046146e2(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:6afe144e9a61 in group standalone. 
+ 26/08/26 11:04:41,658 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:363b69fd9503(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-1, timing=(createdAt=2026-08-26T11:04:41.639046450Z, pending=0ms, running=16ms, lifetime=17ms)) 
+]
+ 27/08/26 07:16:08,030 WARN  [92308a50-47d5-dbe5-a929-430bbd4d545a@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:a1d85e6fff78(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:0bac0c1c00fb in group standalone. 
+ 27/08/26 07:16:08,031 WARN  [c6a60836-24cb-7cb4-f93e-54dd59760bac@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:0bac0c1c00fb(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:64125b7aa94b in group standalone. 
+ 27/08/26 09:44:54,910 WARN  [03c03a19-95e4-16c2-969f-068569d6cacf@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:6036b4995002(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:6a339745a043 in group standalone. 
+ 27/08/26 09:44:54,910 WARN  [fef606dc-5003-64a1-5edb-ccd00b35ed33@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:6a339745a043(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:c2e08bdeb664 in group standalone. 
+ 27/08/26 10:58:50,653 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:128ef7995db9(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-27T10:58:50.637262891Z, pending=0ms, running=15ms, lifetime=15ms)) 
+]
+ 27/08/26 10:59:50,644 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:a7d00299ef17(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-27T10:59:50.638166922Z, pending=0ms, running=5ms, lifetime=5ms)) 
+]
+ 27/08/26 11:54:33,706 WARN  [03c03a19-95e4-16c2-969f-068569d6cacf@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:9a765019ef53(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:93921af96093 in group standalone. 
+ 27/08/26 13:53:03,303 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:71139c90875f(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:20c79875bf59 in group standalone. 
+ 27/08/26 13:53:03,304 WARN  [fef606dc-5003-64a1-5edb-ccd00b35ed33@al-scheduling-4] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:20c79875bf59(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:41ae209fb70e in group standalone. 
+ 27/08/26 15:20:07,827 WARN  [03c03a19-95e4-16c2-969f-068569d6cacf@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:389d24f11f55(status=RUNNING) with j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:fd058cda52bc in group standalone. 
+ 27/08/26 17:18:47,662 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: []
+ 27/08/26 17:19:47,652 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:5487e7e09db7(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-2, timing=(createdAt=2026-08-27T17:19:47.638423985Z, pending=0ms, running=11ms, lifetime=11ms)) 
+]
+ 28/08/26 06:06:48,591 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-1] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:ba3f7f96a6e1(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:7845db48becf in group standalone. 
+ 28/08/26 06:50:47,661 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:d6c9b49633fb(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-28T06:50:47.639116379Z, pending=0ms, running=20ms, lifetime=21ms)) 
+]
+ 28/08/26 06:51:47,650 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@job-reporter-1 ] [LocalSchedulingJobProcessor   ] [system@] Job report:
+  Pending job count: 0
+  Running jobs: [
+ j.y.s.LocalScheduling$LocalSchedulingJob:fadecb9e92f8(metadata=RemoteApiSyncService#/opt/youtrack/data/youtrack, state=RUNNING, priority=NORMAL, executingThread=local-scheduling-3, timing=(createdAt=2026-08-28T06:51:47.638962830Z, pending=0ms, running=9ms, lifetime=10ms)) 
+]
+ 28/08/26 08:17:04,090 WARN  [fef606dc-5003-64a1-5edb-ccd00b35ed33@al-scheduling-2] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.n.cleanup.CleanupPersistedNotificationsScheduling$execute$job$1:2ea8c9be00c9(status=RUNNING) with j.y.n.cleanup.CleanupThreadsScheduling$execute$job$1:a4ae258ba1d2 in group standalone. 
+ 29/08/26 16:02:55,854 WARN  [fb77d329-efc1-1ebd-4746-4ffd49411a38@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:0a41a70ad551(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:c9a94386da2e in group standalone. 
+ 29/08/26 16:02:55,855 WARN  [92308a50-47d5-dbe5-a929-430bbd4d545a@al-scheduling-3] [CleanupJobProcessor           ] [@] Unable to replace previous job j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:c9a94386da2e(status=RUNNING) with j.y.p.cleanup.issue.AbstractCleanupLocalScheduling$createCleanupJob$1:88f979855f94 in group standalone. 
+ 29/08/26 18:15:23,282 INFO  [@ Daemon Proxy 2] [MaintenanceJobThreadPool      ] [@] Disabled autoscaling
+ 01/09/26 07:40:42,958 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [MaintenanceJobThreadPool      ] [init@] Enabled autoscaling (checkIntervalSec=60, queueSizeThreshold=100)
+ 01/09/26 07:40:51,760 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@job-reporter-1 ] [TextIndexManagerImpl          ] [system@] Job report:
+  Pending job count: 1
+  Running jobs: [
+ j.y.t.async.QueueNotIndexedDocumentsJob:680a1d759b16(metadata=null, state=RUNNING, priority=ABOVE_NORMAL, executingThread=text-index-1, timing=(createdAt=2026-09-01T07:40:51.753223657Z, pending=2ms, running=1ms, lifetime=6ms)) 
+]
+ 01/09/26 07:41:07,792 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 55000
+ 01/09/26 07:41:07,793 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 01/09/26 07:41:07,806 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed start delay: 0 -> 10000
+ 01/09/26 07:41:07,806 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [AnalysisDurabilityJobProcessor] [@] Changed timeout: 90000 -> 90000
+ 01/09/26 07:41:07,807 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed start delay: 0 -> 70000
+ 01/09/26 07:41:07,807 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [SendingDurabilityJobProcessor ] [@] Changed timeout: 90000 -> 90000
+ 

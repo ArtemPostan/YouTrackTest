@@ -1,0 +1,48 @@
+services:
+  youtrack-server:
+    image: jetbrains/youtrack:2026.2.18194
+    container_name: youtrack-server
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./youtrack/data:/opt/youtrack/data
+      - ./youtrack/conf:/opt/youtrack/conf
+      - ./youtrack/logs:/opt/youtrack/logs
+      - ./youtrack/backups:/opt/youtrack/backups
+    networks:
+      - test-net
+
+  selenium-hub:
+    image: selenium/hub:latest
+    container_name: selenium-hub
+    ports:
+      - "4444:4444"
+      - "4442:4442"
+      - "4443:4443"
+    networks:
+      - test-net
+
+  chrome-node:
+    image: selenium/node-chrome:latest
+    container_name: chrome-node
+    ports:
+      - "7900:7900"
+    depends_on:
+      - selenium-hub
+      - youtrack-server
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - SE_HOST=chrome-node
+      # Явное указание URL хаба для регистрации ноды
+      - SE_SUP_HOST=selenium-hub
+      - SE_NODE_MAX_SESSIONS=3
+      - SE_NODE_MAX_INSTANCES=3
+    shm_size: 2gb
+    networks:
+      - test-net
+
+networks:
+  test-net:
+    driver: bridge

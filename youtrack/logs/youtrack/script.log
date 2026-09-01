@@ -1,0 +1,906 @@
+13/08/26 13:03:50,149 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 13/08/26 13:03:50,949 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 13/08/26 13:03:54,641 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named cache.js
+ 13/08/26 13:03:54,647 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named context-utils.js
+ 13/08/26 13:03:54,648 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named date-time.js
+ 13/08/26 13:03:54,649 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named debug-utils.js
+ 13/08/26 13:03:54,650 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named entities.js
+ 13/08/26 13:03:54,657 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named environment.js
+ 13/08/26 13:03:54,657 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named http.js
+ 13/08/26 13:03:54,662 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named legacy-star-shim.js
+ 13/08/26 13:03:54,669 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named license.js
+ 13/08/26 13:03:54,670 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named notifications.js
+ 13/08/26 13:03:54,671 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named search.js
+ 13/08/26 13:03:54,671 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named strings.js
+ 13/08/26 13:03:54,774 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 13/08/26 13:03:54,793 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow.js
+ 13/08/26 13:03:54,806 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 13/08/26 13:03:54,844 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named html-to-markdown.js
+ 13/08/26 13:03:54,847 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named third-party-dependencies.js
+ 13/08/26 13:03:54,992 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 13/08/26 13:03:54,994 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named macro-handlers.js
+ 13/08/26 13:03:54,995 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named stringify-handlers.js
+ 13/08/26 13:03:54,997 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named table-handlers.js
+ 13/08/26 13:03:54,998 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named tag-merge-processor.js
+ 13/08/26 13:03:55,008 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named third-party-dependencies.js
+ 13/08/26 13:03:55,045 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named to-markdown.js
+ 13/08/26 13:03:55,172 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 13/08/26 13:03:55,199 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 13/08/26 13:03:55,260 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 13/08/26 13:03:55,310 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-api.js
+ 13/08/26 13:03:55,311 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-article.js
+ 13/08/26 13:03:55,312 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-attachments.js
+ 13/08/26 13:03:55,313 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-comments.js
+ 13/08/26 13:03:55,314 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-field.js
+ 13/08/26 13:03:55,315 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-history.js
+ 13/08/26 13:03:55,316 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-issue.js
+ 13/08/26 13:03:55,317 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-key-generator.js
+ 13/08/26 13:03:55,319 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-mentions.js
+ 13/08/26 13:03:55,320 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-paginator.js
+ 13/08/26 13:03:55,321 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-project.js
+ 13/08/26 13:03:55,322 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-stories.js
+ 13/08/26 13:03:55,323 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named asana-user.js
+ 13/08/26 13:03:55,324 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named client.js
+ 13/08/26 13:03:55,325 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named common-utils.js
+ 13/08/26 13:03:55,326 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named connector.js
+ 13/08/26 13:03:55,327 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named consts.js
+ 13/08/26 13:03:55,329 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named container.js
+ 13/08/26 13:03:55,330 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field-relation.js
+ 13/08/26 13:03:55,333 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named file-utils.js
+ 13/08/26 13:03:55,337 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issue-utils.js
+ 13/08/26 13:03:55,354 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 13/08/26 13:03:55,363 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named users-directory.js
+ 13/08/26 13:03:55,379 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 13/08/26 13:03:55,397 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named bugzilla-connection.js
+ 13/08/26 13:03:55,400 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named bugzilla-fields.js
+ 13/08/26 13:03:55,403 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named bugzilla-history.js
+ 13/08/26 13:03:55,405 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named bugzilla-issue-converter.js
+ 13/08/26 13:03:55,412 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named bugzilla-issues-client.js
+ 13/08/26 13:03:55,421 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named bugzilla-utils.js
+ 13/08/26 13:03:55,478 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 13/08/26 13:03:55,481 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-api.js
+ 13/08/26 13:03:55,482 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-attachments.js
+ 13/08/26 13:03:55,483 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-comments.js
+ 13/08/26 13:03:55,483 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-docs.js
+ 13/08/26 13:03:55,484 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-fields.js
+ 13/08/26 13:03:55,485 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-hierarchy.js
+ 13/08/26 13:03:55,487 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-issue.js
+ 13/08/26 13:03:55,489 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-key-generator.js
+ 13/08/26 13:03:55,489 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-mentions.js
+ 13/08/26 13:03:55,490 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-space.js
+ 13/08/26 13:03:55,490 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-task-type.js
+ 13/08/26 13:03:55,492 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clickup-user.js
+ 13/08/26 13:03:55,493 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named client.js
+ 13/08/26 13:03:55,495 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named common-utils.js
+ 13/08/26 13:03:55,496 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named connector.js
+ 13/08/26 13:03:55,497 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named consts.js
+ 13/08/26 13:03:55,498 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named container.js
+ 13/08/26 13:03:55,500 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named doc-utils.js
+ 13/08/26 13:03:55,501 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field-relation.js
+ 13/08/26 13:03:55,503 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field-utils.js
+ 13/08/26 13:03:55,505 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named file-utils.js
+ 13/08/26 13:03:55,512 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issue-utils.js
+ 13/08/26 13:03:55,536 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 13/08/26 13:03:55,542 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-article.js
+ 13/08/26 13:03:55,555 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-attachment.js
+ 13/08/26 13:03:55,557 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-client.js
+ 13/08/26 13:03:55,558 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-comment.js
+ 13/08/26 13:03:55,559 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-connection.js
+ 13/08/26 13:03:55,561 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-content.js
+ 13/08/26 13:03:55,564 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-context.js
+ 13/08/26 13:03:55,571 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-group.js
+ 13/08/26 13:03:55,572 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-new-client.js
+ 13/08/26 13:03:55,574 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-old-client.js
+ 13/08/26 13:03:55,575 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-page-cache.js
+ 13/08/26 13:03:55,576 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-project.js
+ 13/08/26 13:03:55,578 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-user.js
+ 13/08/26 13:03:55,579 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named confluence-utils.js
+ 13/08/26 13:03:55,581 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named extractor-articles.js
+ 13/08/26 13:03:55,591 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named extractor-spaces.js
+ 13/08/26 13:03:55,593 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named extractor-users.js
+ 13/08/26 13:03:55,598 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named page-cache.js
+ 13/08/26 13:03:55,672 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 13/08/26 13:03:55,688 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named client.js
+ 13/08/26 13:03:55,701 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-agent-user.js
+ 13/08/26 13:03:55,703 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-article.js
+ 13/08/26 13:03:55,705 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-helpdesk-issue.js
+ 13/08/26 13:03:55,706 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-helpdesk-project.js
+ 13/08/26 13:03:55,708 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-issue.js
+ 13/08/26 13:03:55,712 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-project.js
+ 13/08/26 13:03:55,715 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-reporter-user.js
+ 13/08/26 13:03:55,717 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named demo-user.js
+ 13/08/26 13:03:55,758 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 13/08/26 13:03:55,760 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named github-content-converter.js
+ 13/08/26 13:03:55,760 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named github-content-loader.js
+ 13/08/26 13:03:55,761 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named github-history-converter.js
+ 13/08/26 13:03:55,762 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named github-issue-converter.js
+ 13/08/26 13:03:55,762 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named github-issues-client.js
+ 13/08/26 13:03:55,769 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named github-utils.js
+ 13/08/26 13:03:55,816 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 13/08/26 13:03:55,820 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named gitlab-client.js
+ 13/08/26 13:03:55,826 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named gitlab-connection.js
+ 13/08/26 13:03:55,827 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named gitlab-issue-converter.js
+ 13/08/26 13:03:55,828 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named gitlab-utils.js
+ 13/08/26 13:03:55,864 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 13/08/26 13:03:55,868 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named converter.js
+ 13/08/26 13:03:55,913 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 13/08/26 13:03:55,917 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named client.js
+ 13/08/26 13:03:55,924 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named events.js
+ 13/08/26 13:03:55,932 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named fields.js
+ 13/08/26 13:03:55,943 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issue-handler.js
+ 13/08/26 13:03:55,950 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named links.js
+ 13/08/26 13:03:55,952 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named security.js
+ 13/08/26 13:03:55,953 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named utils.js
+ 13/08/26 13:03:56,026 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 13/08/26 13:03:56,029 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issues.js
+ 13/08/26 13:03:56,031 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named json-client.js
+ 13/08/26 13:03:56,033 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named projects.js
+ 13/08/26 13:03:56,042 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 13/08/26 13:03:56,053 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named mantis-issues-client.js
+ 13/08/26 13:03:56,060 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named utils.js
+ 13/08/26 13:03:56,106 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 13/08/26 13:03:56,110 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named attach.js
+ 13/08/26 13:03:56,112 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named attach_converter.js
+ 13/08/26 13:03:56,114 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named client.js
+ 13/08/26 13:03:56,115 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named comment.js
+ 13/08/26 13:03:56,116 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field.js
+ 13/08/26 13:03:56,118 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field_converter.js
+ 13/08/26 13:03:56,119 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field_relation.js
+ 13/08/26 13:03:56,119 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named group.js
+ 13/08/26 13:03:56,120 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named history.js
+ 13/08/26 13:03:56,122 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issue.js
+ 13/08/26 13:03:56,123 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named project.js
+ 13/08/26 13:03:56,124 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named project_field_converter.js
+ 13/08/26 13:03:56,125 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named query.js
+ 13/08/26 13:03:56,126 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named tag.js
+ 13/08/26 13:03:56,127 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named user.js
+ 13/08/26 13:03:56,128 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named util.js
+ 13/08/26 13:03:56,129 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named vote.js
+ 13/08/26 13:03:56,136 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 13/08/26 13:03:56,145 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named connection.js
+ 13/08/26 13:03:56,147 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named redmine-client.js
+ 13/08/26 13:03:56,154 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named utils.js
+ 13/08/26 13:03:56,210 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 13/08/26 13:03:56,213 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-article-converter.js
+ 13/08/26 13:03:56,220 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-artilce-cache.js
+ 13/08/26 13:03:56,222 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-client.js
+ 13/08/26 13:03:56,226 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-connection.js
+ 13/08/26 13:03:56,227 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-context.js
+ 13/08/26 13:03:56,228 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-issue-converter.js
+ 13/08/26 13:03:56,233 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-markdown-converter.js
+ 13/08/26 13:03:56,234 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-users.js
+ 13/08/26 13:03:56,236 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named space-utils.js
+ 13/08/26 13:03:56,287 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 13/08/26 13:03:56,290 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named attachment.js
+ 13/08/26 13:03:56,291 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named client.js
+ 13/08/26 13:03:56,292 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named comment.js
+ 13/08/26 13:03:56,292 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field-converter.js
+ 13/08/26 13:03:56,293 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field-recognizer.js
+ 13/08/26 13:03:56,294 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named field.js
+ 13/08/26 13:03:56,296 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issue.js
+ 13/08/26 13:03:56,297 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named link.js
+ 13/08/26 13:03:56,298 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named old-issue.js
+ 13/08/26 13:03:56,298 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named project-field-converter.js
+ 13/08/26 13:03:56,299 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named project.js
+ 13/08/26 13:03:56,300 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named type-conversation.js
+ 13/08/26 13:03:56,301 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named user.js
+ 13/08/26 13:03:56,302 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named util.js
+ 13/08/26 13:03:56,312 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 13/08/26 13:03:56,319 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-articles-history.js
+ 13/08/26 13:03:56,320 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-articles.js
+ 13/08/26 13:03:56,322 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-client.js
+ 13/08/26 13:03:56,323 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-common-objects.js
+ 13/08/26 13:03:56,324 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-connection.js
+ 13/08/26 13:03:56,326 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-issues-fields.js
+ 13/08/26 13:03:56,327 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-issues-history.js
+ 13/08/26 13:03:56,330 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-issues.js
+ 13/08/26 13:03:56,331 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-project.js
+ 13/08/26 13:03:56,332 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-uri-creator.js
+ 13/08/26 13:03:56,334 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named youtrack-utils.js
+ 13/08/26 13:03:56,344 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 13/08/26 13:03:56,348 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named agreement.js
+ 13/08/26 13:03:56,350 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named connection.js
+ 13/08/26 13:03:56,353 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-imported-issue-update.js
+ 13/08/26 13:03:56,365 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named time-utils.js
+ 13/08/26 13:03:56,368 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-cache-in-memory.js
+ 13/08/26 13:03:56,375 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-cache.js
+ 13/08/26 13:03:56,376 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-client-common.js
+ 13/08/26 13:03:56,383 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-client.js
+ 13/08/26 13:03:56,384 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-integration-client.js
+ 13/08/26 13:03:56,385 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-integration-common.js
+ 13/08/26 13:03:56,387 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-integration-historical-client.js
+ 13/08/26 13:03:56,388 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-integration-incremental-client.js
+ 13/08/26 13:03:56,394 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-integration-initial-client.js
+ 13/08/26 13:03:56,396 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-user-cache.js
+ 13/08/26 13:03:56,397 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named zendesk-utils.js
+ 13/08/26 13:03:56,446 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 13/08/26 13:03:56,464 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named assignee-not-in-group.js
+ 13/08/26 13:03:56,469 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 13/08/26 13:03:58,416 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named from-normal-to-major-in-7-days.js
+ 13/08/26 13:03:58,416 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named from-major-to-critical-in-10-days.js
+ 13/08/26 13:03:58,418 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named from-critical-to-show-stopper-in-12-days.js
+ 13/08/26 13:03:58,421 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 13/08/26 13:03:58,519 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clear-fix-versions.js
+ 13/08/26 13:03:58,522 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 13/08/26 13:03:58,523 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clone-to-draft.js
+ 13/08/26 13:03:58,528 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 13/08/26 13:03:58,530 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clone-to-draft.js
+ 13/08/26 13:03:58,531 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clone.js
+ 13/08/26 13:03:58,536 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 13/08/26 13:03:58,584 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named no-comments-for-verified.js
+ 13/08/26 13:03:58,587 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 13/08/26 13:03:58,589 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named default-description.js
+ 13/08/26 13:03:58,592 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 13/08/26 13:03:58,595 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named fix-with-unresolved-links.js
+ 13/08/26 13:03:58,597 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 13/08/26 13:03:58,598 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named notify-assignee-on-overdue.js
+ 13/08/26 13:03:58,600 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named require-due-date.js
+ 13/08/26 13:03:58,603 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 13/08/26 13:03:58,605 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named flatten-duplicates-structure.js
+ 13/08/26 13:03:58,606 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named issue-in-duplicate-state-must-have-duplicates-link.js
+ 13/08/26 13:03:58,606 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named raise-priority-when-duplicate-added.js
+ 13/08/26 13:03:58,606 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named reopen-issue-when-last-duplicate-removed.js
+ 13/08/26 13:03:58,607 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named set-to-duplicate-when-have-duplicates-link.js
+ 13/08/26 13:03:58,610 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 13/08/26 13:03:58,613 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named attach-file-comment.js
+ 13/08/26 13:03:58,615 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named attach-file-description.js
+ 13/08/26 13:03:58,615 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named attach-file-utils.js
+ 13/08/26 13:03:58,619 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 13/08/26 13:03:58,620 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named copy-to-issue-tracker.js
+ 13/08/26 13:03:58,621 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named duplicate.js
+ 13/08/26 13:03:58,622 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named merge-tickets.js
+ 13/08/26 13:03:58,622 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named pending-ticket-retention.js
+ 13/08/26 13:03:58,622 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named reopen-on-reporter-reply.js
+ 13/08/26 13:03:58,623 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named set-assignee-on-first-reply.js
+ 13/08/26 13:03:58,623 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named ticket-from-comment.js
+ 13/08/26 13:03:58,627 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 13/08/26 13:03:58,679 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named denied-combinations.js
+ 13/08/26 13:03:58,683 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 13/08/26 13:03:58,685 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named allow-moving-ready-to-pull-only.js
+ 13/08/26 13:03:58,686 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named assign-on-move.js
+ 13/08/26 13:03:58,689 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 13/08/26 13:03:58,693 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named notify-reporter-to-approve-fix.js
+ 13/08/26 13:03:58,694 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named state-lifecycle-with-verification-by-reporter.js
+ 13/08/26 13:03:58,697 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 13/08/26 13:03:58,700 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named notify-when-dependency-resolved.js
+ 13/08/26 13:03:58,703 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 13/08/26 13:03:58,707 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named vote-for-issue.js
+ 13/08/26 13:03:58,712 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 13/08/26 13:03:58,714 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named dont-change-reason-manually.js
+ 13/08/26 13:03:58,715 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named pomodoro-countdown.js
+ 13/08/26 13:03:58,715 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named pomodoro-states.js
+ 13/08/26 13:03:58,719 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 13/08/26 13:03:58,722 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named profanity-blocker.js
+ 13/08/26 13:03:58,723 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named profanity-common.js
+ 13/08/26 13:03:58,727 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 13/08/26 13:03:58,730 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named add-refers-link-to-mentioned-issues.js
+ 13/08/26 13:03:58,734 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 13/08/26 13:03:58,737 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named replace-links.js
+ 13/08/26 13:03:58,740 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 13/08/26 13:03:58,743 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named no-votes-for-resolved.js
+ 13/08/26 13:03:58,745 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 13/08/26 13:03:58,748 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named assign-on-move.js
+ 13/08/26 13:03:58,750 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named fix-parent-on-subtasks-resolve.js
+ 13/08/26 13:03:58,751 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named no-ideal-days-for-epics.js
+ 13/08/26 13:03:58,751 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named no-story-points-for-tasks.js
+ 13/08/26 13:03:58,752 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named open-parent-on-subtask-open.js
+ 13/08/26 13:03:58,755 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 13/08/26 13:03:58,758 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named assign-on-move.js
+ 13/08/26 13:03:58,760 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named fix-parent-on-subtasks-resolve.js
+ 13/08/26 13:03:58,762 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named open-parent-on-subtask-open.js
+ 13/08/26 13:03:58,765 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 13/08/26 13:03:58,768 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named assert-fix-versions.js
+ 13/08/26 13:03:58,771 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 13/08/26 13:03:58,773 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named send-to-slack.js
+ 13/08/26 13:03:58,776 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 13/08/26 13:03:58,779 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named close-spam-ticket.js
+ 13/08/26 13:03:58,780 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named delete-spam-after-month.js
+ 13/08/26 13:03:58,783 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 13/08/26 13:03:58,786 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named start-timer.js
+ 13/08/26 13:03:58,787 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named stop-timer.js
+ 13/08/26 13:03:58,791 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 13/08/26 13:03:58,793 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named set-assignee.js
+ 13/08/26 13:03:58,796 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 13/08/26 13:03:58,798 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named inherit-assignee.js
+ 13/08/26 13:03:58,802 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named update-assignee.js
+ 13/08/26 13:03:58,806 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 13/08/26 13:03:58,808 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named copy-values.js
+ 13/08/26 13:03:58,808 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named inherit-fix-versions.js
+ 13/08/26 13:03:58,809 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named update-fix-versions.js
+ 13/08/26 13:03:58,812 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 13/08/26 13:03:58,818 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named inherit-subsystem.js
+ 13/08/26 13:03:58,819 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named update-subsystem.js
+ 13/08/26 13:03:58,822 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 13/08/26 13:03:58,824 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named fix-parent-on-subtasks-resolve.js
+ 13/08/26 13:03:58,825 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named open-parent-on-subtask-open.js
+ 13/08/26 13:03:58,829 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 13/08/26 13:03:58,831 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named task-assignee.js
+ 13/08/26 13:03:58,836 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 13/08/26 13:03:58,840 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named time-management.js
+ 13/08/26 13:03:58,844 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 13/08/26 13:03:58,847 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named untag-on-reopen.js
+ 13/08/26 13:03:58,850 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 13/08/26 13:03:58,854 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named clear-on-unresolve.js
+ 13/08/26 13:03:58,854 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named copy-from-duplicated-issue.js
+ 13/08/26 13:03:58,855 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named set-to-duplicate.js
+ 13/08/26 13:03:58,858 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 13/08/26 13:03:58,861 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named add-project-leader.js
+ 13/08/26 13:03:58,871 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 13/08/26 13:03:58,907 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named set-build-to-never.js
+ 13/08/26 13:03:58,910 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 13/08/26 13:03:58,914 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named start-timer.js
+ 13/08/26 13:03:58,915 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named stop-timer.js
+ 13/08/26 13:03:58,918 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 13/08/26 13:03:58,926 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named add_issue_comment.js
+ 13/08/26 13:03:58,927 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named change_issue_assignee.js
+ 13/08/26 13:03:58,927 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named create_article.js
+ 13/08/26 13:03:58,927 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named create_draft_issue.js
+ 13/08/26 13:03:58,928 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named create_issue.js
+ 13/08/26 13:03:58,928 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named fields_util.js
+ 13/08/26 13:03:58,935 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named find_projects.js
+ 13/08/26 13:03:58,935 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named find_user.js
+ 13/08/26 13:03:58,935 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named find_user_groups.js
+ 13/08/26 13:03:58,936 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_article.js
+ 13/08/26 13:03:58,936 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_current_user.js
+ 13/08/26 13:03:58,936 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_issue.js
+ 13/08/26 13:03:58,936 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_issue_comments.js
+ 13/08/26 13:03:58,937 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_issue_fields_schema.js
+ 13/08/26 13:03:58,937 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_project.js
+ 13/08/26 13:03:58,937 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_saved_issue_searches.js
+ 13/08/26 13:03:58,937 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named get_user_group_members.js
+ 13/08/26 13:03:58,938 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named link_issues.js
+ 13/08/26 13:03:58,938 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named log_work.js
+ 13/08/26 13:03:58,939 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named manage_issue_tags.js
+ 13/08/26 13:03:58,940 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named search_articles.js
+ 13/08/26 13:03:58,941 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named search_issues.js
+ 13/08/26 13:03:58,941 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named update_article.js
+ 13/08/26 13:03:58,942 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named update_issue.js
+ 13/08/26 13:03:58,943 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named util.js
+ 13/08/26 13:03:58,984 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 13/08/26 13:04:02,769 WARN  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [toringProjectTeamWidgetUseDbId] [@] Widget 'hub-project-team-widget' not found, skipping refactoring
+ 13/08/26 13:04:03,823 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named backend.js
+ 13/08/26 13:04:03,874 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [EntityExtensionService        ] [@] Added new extension property in 'article-feedback' app: Article.feedback: string}
+ 13/08/26 13:04:03,874 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [EntityExtensionService        ] [@] Added new extension property in 'article-feedback' app: Article.guestFeedback: string}
+ 13/08/26 13:04:03,875 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [EntityExtensionService        ] [@] Added new extension property in 'article-feedback' app: Article.guestLikes: string}
+ 13/08/26 13:04:03,926 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 13/08/26 13:04:04,008 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 13/08/26 13:04:04,214 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 13/08/26 13:04:04,349 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 13/08/26 13:04:04,359 WARN  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 13/08/26 13:04:04,427 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 13/08/26 13:04:04,512 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 13/08/26 13:04:04,664 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 13/08/26 13:04:04,679 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named constants.js
+ 13/08/26 13:04:04,682 WARN  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 13/08/26 13:04:04,682 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-attachment-added.js
+ 13/08/26 13:04:04,682 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-attachment-deleted.js
+ 13/08/26 13:04:04,683 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-comment-added.js
+ 13/08/26 13:04:04,683 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-comment-deleted.js
+ 13/08/26 13:04:04,684 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-comment-updated.js
+ 13/08/26 13:04:04,685 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-issue-created.js
+ 13/08/26 13:04:04,686 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-issue-deleted.js
+ 13/08/26 13:04:04,686 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-issue-updated.js
+ 13/08/26 13:04:04,687 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-work-item-added.js
+ 13/08/26 13:04:04,688 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-work-item-deleted.js
+ 13/08/26 13:04:04,688 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named on-work-item-updated.js
+ 13/08/26 13:04:04,690 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow-core.js
+ 13/08/26 13:04:04,691 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow-field-changes.js
+ 13/08/26 13:04:04,692 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow-guards.js
+ 13/08/26 13:04:04,693 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow-http.js
+ 13/08/26 13:04:04,694 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow-security.js
+ 13/08/26 13:04:04,695 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Created new entry named workflow-utils.js
+ 13/08/26 13:04:04,716 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 13/08/26 13:04:04,788 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 13/08/26 13:04:05,652 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 13/08/26 13:04:11,558 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 13/08/26 13:04:11,591 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 13/08/26 13:04:11,604 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 13/08/26 13:04:11,619 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 13/08/26 13:04:11,631 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 14/08/26 07:14:50,245 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 14/08/26 07:14:51,011 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 14/08/26 07:14:56,056 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 14/08/26 07:14:56,119 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 14/08/26 07:14:56,328 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 14/08/26 07:14:56,631 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 14/08/26 07:14:56,670 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 14/08/26 07:14:56,728 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 14/08/26 07:14:56,771 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 14/08/26 07:14:56,777 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 14/08/26 07:14:56,851 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 14/08/26 07:14:56,863 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 14/08/26 07:14:57,015 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 14/08/26 07:14:57,096 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 14/08/26 07:14:57,202 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 14/08/26 07:14:57,287 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 14/08/26 07:14:57,455 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 14/08/26 07:14:57,776 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 14/08/26 07:14:57,780 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 14/08/26 07:14:57,867 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 14/08/26 07:14:57,874 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 14/08/26 07:14:57,962 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 14/08/26 07:14:58,154 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 14/08/26 07:14:58,161 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 14/08/26 07:14:58,170 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 14/08/26 07:14:58,297 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 14/08/26 07:14:58,312 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 14/08/26 07:15:00,358 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 14/08/26 07:15:00,451 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 14/08/26 07:15:00,453 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 14/08/26 07:15:00,455 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 14/08/26 07:15:00,495 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 14/08/26 07:15:00,499 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 14/08/26 07:15:00,502 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 14/08/26 07:15:00,506 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 14/08/26 07:15:00,510 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 14/08/26 07:15:00,517 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 14/08/26 07:15:00,521 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 14/08/26 07:15:00,567 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 14/08/26 07:15:00,571 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 14/08/26 07:15:00,575 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 14/08/26 07:15:00,579 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 14/08/26 07:15:00,583 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 14/08/26 07:15:00,585 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 14/08/26 07:15:00,587 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 14/08/26 07:15:00,590 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 14/08/26 07:15:00,592 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 14/08/26 07:15:00,597 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 14/08/26 07:15:00,599 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 14/08/26 07:15:00,601 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 14/08/26 07:15:00,603 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 14/08/26 07:15:00,605 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 14/08/26 07:15:00,609 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 14/08/26 07:15:00,612 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 14/08/26 07:15:00,615 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 14/08/26 07:15:00,617 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 14/08/26 07:15:00,619 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 14/08/26 07:15:00,621 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 14/08/26 07:15:00,624 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 14/08/26 07:15:00,625 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 14/08/26 07:15:00,628 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 14/08/26 07:15:00,631 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 14/08/26 07:15:00,633 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 14/08/26 07:15:00,635 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 14/08/26 07:15:00,667 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 14/08/26 07:15:00,672 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 14/08/26 07:15:00,750 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 14/08/26 07:15:03,223 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 14/08/26 07:15:03,350 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 14/08/26 07:15:04,247 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 14/08/26 07:15:04,551 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 14/08/26 07:15:04,560 WARN  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 14/08/26 07:15:04,636 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 14/08/26 07:15:04,700 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 14/08/26 07:15:05,082 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 14/08/26 07:15:05,087 WARN  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 14/08/26 07:15:05,100 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 14/08/26 07:15:05,400 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 14/08/26 07:15:06,257 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 14/08/26 07:15:11,315 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 14/08/26 07:15:11,339 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 14/08/26 07:15:11,356 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 14/08/26 07:15:11,383 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 14/08/26 07:15:11,393 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 15/08/26 13:56:27,555 INFO  [5524da93-2785-1463-b560-de234eaa76ba@al-scheduling-3] [RunInContextKt$logger$1       ] [@] Checking marketplace updates for apps: {article-feedback=XdPlugin wrapper for Workflow: id = 151-62, documents-list=XdPlugin wrapper for Workflow: id = 151-63, issue-dashboard-widgets=XdPlugin wrapper for Workflow: id = 151-64, project-team-dashboard-widgets=XdPlugin wrapper for Workflow: id = 151-65, quick-notes=XdPlugin wrapper for Workflow: id = 151-66, report-dashboard-widgets=XdPlugin wrapper for Workflow: id = 151-67, time-tracking-dashboard-widgets=XdPlugin wrapper for Workflow: id = 151-68, webhook-triggers=XdPlugin wrapper for Workflow: id = 151-69, votes-histogram=XdPlugin wrapper for Workflow: id = 151-70}
+ 15/08/26 13:56:29,382 INFO  [5524da93-2785-1463-b560-de234eaa76ba@al-scheduling-3] [CheckForAppUpdateScheduling   ] [@] Marketplace apps updates periodical check has been completed (the cron: '0 30 7 ? * SAT')
+ 18/08/26 09:05:52,036 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 18/08/26 09:05:52,873 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 18/08/26 09:05:57,443 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 18/08/26 09:05:57,479 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 18/08/26 09:05:57,533 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 18/08/26 09:05:57,664 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 18/08/26 09:05:57,708 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 18/08/26 09:05:57,786 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 18/08/26 09:05:57,878 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 18/08/26 09:05:57,884 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 18/08/26 09:05:57,907 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 18/08/26 09:05:57,922 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 18/08/26 09:05:57,957 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 18/08/26 09:05:57,981 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 18/08/26 09:05:58,005 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 18/08/26 09:05:58,025 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 18/08/26 09:05:58,039 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 18/08/26 09:05:58,103 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 18/08/26 09:05:58,111 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 18/08/26 09:05:58,185 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 18/08/26 09:05:58,204 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 18/08/26 09:05:58,241 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 18/08/26 09:05:58,289 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 18/08/26 09:05:58,309 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 18/08/26 09:05:58,319 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 18/08/26 09:05:58,361 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 18/08/26 09:05:58,383 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 18/08/26 09:06:00,446 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 18/08/26 09:06:00,535 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 18/08/26 09:06:00,538 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 18/08/26 09:06:00,542 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 18/08/26 09:06:00,606 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 18/08/26 09:06:00,609 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 18/08/26 09:06:00,611 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 18/08/26 09:06:00,613 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 18/08/26 09:06:00,616 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 18/08/26 09:06:00,618 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 18/08/26 09:06:00,622 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 18/08/26 09:06:00,661 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 18/08/26 09:06:00,663 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 18/08/26 09:06:00,665 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 18/08/26 09:06:00,668 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 18/08/26 09:06:00,670 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 18/08/26 09:06:00,673 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 18/08/26 09:06:00,676 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 18/08/26 09:06:00,678 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 18/08/26 09:06:00,680 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 18/08/26 09:06:00,682 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 18/08/26 09:06:00,685 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 18/08/26 09:06:00,687 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 18/08/26 09:06:00,690 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 18/08/26 09:06:00,692 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 18/08/26 09:06:00,694 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 18/08/26 09:06:00,696 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 18/08/26 09:06:00,699 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 18/08/26 09:06:00,701 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 18/08/26 09:06:00,704 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 18/08/26 09:06:00,707 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 18/08/26 09:06:00,709 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 18/08/26 09:06:00,713 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 18/08/26 09:06:00,718 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 18/08/26 09:06:00,722 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 18/08/26 09:06:00,726 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 18/08/26 09:06:00,728 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 18/08/26 09:06:00,758 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 18/08/26 09:06:00,760 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 18/08/26 09:06:00,782 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 18/08/26 09:06:02,611 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 18/08/26 09:06:02,720 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 18/08/26 09:06:03,517 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 18/08/26 09:06:03,781 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 18/08/26 09:06:03,795 WARN  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 18/08/26 09:06:03,896 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 18/08/26 09:06:03,976 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 18/08/26 09:06:04,487 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 18/08/26 09:06:04,494 WARN  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 18/08/26 09:06:04,513 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 18/08/26 09:06:04,647 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 18/08/26 09:06:05,736 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 18/08/26 09:06:11,412 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 18/08/26 09:06:11,438 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 18/08/26 09:06:11,463 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 18/08/26 09:06:11,479 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 18/08/26 09:06:11,499 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 20/08/26 07:58:23,501 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 20/08/26 07:58:24,317 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 20/08/26 07:58:27,816 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 20/08/26 07:58:27,834 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 20/08/26 07:58:27,978 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 20/08/26 07:58:28,284 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 20/08/26 07:58:28,354 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 20/08/26 07:58:28,414 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 20/08/26 07:58:28,445 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 20/08/26 07:58:28,449 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 20/08/26 07:58:28,490 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 20/08/26 07:58:28,507 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 20/08/26 07:58:28,725 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 20/08/26 07:58:28,793 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 20/08/26 07:58:28,833 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 20/08/26 07:58:28,905 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 20/08/26 07:58:28,965 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 20/08/26 07:58:29,267 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 20/08/26 07:58:29,270 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 20/08/26 07:58:29,501 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 20/08/26 07:58:29,509 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 20/08/26 07:58:29,604 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 20/08/26 07:58:29,834 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 20/08/26 07:58:29,840 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 20/08/26 07:58:29,845 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 20/08/26 07:58:30,296 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 20/08/26 07:58:30,328 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 20/08/26 07:58:32,111 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 20/08/26 07:58:32,193 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 20/08/26 07:58:32,195 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 20/08/26 07:58:32,199 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 20/08/26 07:58:32,241 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 20/08/26 07:58:32,244 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 20/08/26 07:58:32,246 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 20/08/26 07:58:32,248 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 20/08/26 07:58:32,250 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 20/08/26 07:58:32,252 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 20/08/26 07:58:32,266 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 20/08/26 07:58:32,301 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 20/08/26 07:58:32,305 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 20/08/26 07:58:32,310 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 20/08/26 07:58:32,314 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 20/08/26 07:58:32,316 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 20/08/26 07:58:32,319 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 20/08/26 07:58:32,323 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 20/08/26 07:58:32,326 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 20/08/26 07:58:32,329 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 20/08/26 07:58:32,331 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 20/08/26 07:58:32,335 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 20/08/26 07:58:32,338 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 20/08/26 07:58:32,341 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 20/08/26 07:58:32,343 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 20/08/26 07:58:32,346 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 20/08/26 07:58:32,348 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 20/08/26 07:58:32,351 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 20/08/26 07:58:32,353 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 20/08/26 07:58:32,355 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 20/08/26 07:58:32,358 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 20/08/26 07:58:32,361 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 20/08/26 07:58:32,363 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 20/08/26 07:58:32,366 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 20/08/26 07:58:32,369 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 20/08/26 07:58:32,372 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 20/08/26 07:58:32,375 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 20/08/26 07:58:32,402 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 20/08/26 07:58:32,404 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 20/08/26 07:58:32,441 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 20/08/26 07:58:34,004 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 20/08/26 07:58:34,065 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 20/08/26 07:58:34,909 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 20/08/26 07:58:35,271 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 20/08/26 07:58:35,280 WARN  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 20/08/26 07:58:35,400 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 20/08/26 07:58:35,559 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 20/08/26 07:58:36,110 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 20/08/26 07:58:36,116 WARN  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 20/08/26 07:58:36,153 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 20/08/26 07:58:36,423 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 20/08/26 07:58:36,963 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 20/08/26 07:58:41,533 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 20/08/26 07:58:41,546 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 20/08/26 07:58:41,557 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 20/08/26 07:58:41,570 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 20/08/26 07:58:41,581 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 21/08/26 09:27:53,591 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 21/08/26 09:27:54,352 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 21/08/26 09:27:58,943 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 21/08/26 09:27:58,967 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 21/08/26 09:27:59,134 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 21/08/26 09:27:59,400 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 21/08/26 09:27:59,442 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 21/08/26 09:27:59,520 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 21/08/26 09:27:59,556 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 21/08/26 09:27:59,559 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 21/08/26 09:27:59,651 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 21/08/26 09:27:59,679 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 21/08/26 09:28:00,048 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 21/08/26 09:28:00,215 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 21/08/26 09:28:00,369 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 21/08/26 09:28:00,538 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 21/08/26 09:28:00,682 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 21/08/26 09:28:01,014 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 21/08/26 09:28:01,017 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 21/08/26 09:28:01,148 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 21/08/26 09:28:01,156 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 21/08/26 09:28:01,266 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 21/08/26 09:28:01,726 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 21/08/26 09:28:01,732 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 21/08/26 09:28:01,738 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 21/08/26 09:28:02,296 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 21/08/26 09:28:02,332 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 21/08/26 09:28:04,653 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 21/08/26 09:28:04,740 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 21/08/26 09:28:04,742 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 21/08/26 09:28:04,745 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 21/08/26 09:28:04,788 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 21/08/26 09:28:04,790 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 21/08/26 09:28:04,793 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 21/08/26 09:28:04,796 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 21/08/26 09:28:04,799 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 21/08/26 09:28:04,803 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 21/08/26 09:28:04,807 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 21/08/26 09:28:04,847 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 21/08/26 09:28:04,850 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 21/08/26 09:28:04,853 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 21/08/26 09:28:04,855 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 21/08/26 09:28:04,857 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 21/08/26 09:28:04,860 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 21/08/26 09:28:04,863 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 21/08/26 09:28:04,865 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 21/08/26 09:28:04,868 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 21/08/26 09:28:04,870 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 21/08/26 09:28:04,874 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 21/08/26 09:28:04,877 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 21/08/26 09:28:04,879 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 21/08/26 09:28:04,882 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 21/08/26 09:28:04,886 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 21/08/26 09:28:04,888 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 21/08/26 09:28:04,891 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 21/08/26 09:28:04,893 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 21/08/26 09:28:04,895 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 21/08/26 09:28:04,898 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 21/08/26 09:28:04,901 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 21/08/26 09:28:04,904 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 21/08/26 09:28:04,907 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 21/08/26 09:28:04,909 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 21/08/26 09:28:04,912 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 21/08/26 09:28:04,914 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 21/08/26 09:28:04,936 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 21/08/26 09:28:04,940 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 21/08/26 09:28:05,030 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 21/08/26 09:28:07,418 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 21/08/26 09:28:07,522 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 21/08/26 09:28:08,347 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 21/08/26 09:28:08,680 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 21/08/26 09:28:08,698 WARN  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 21/08/26 09:28:08,840 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 21/08/26 09:28:08,941 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 21/08/26 09:28:09,350 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 21/08/26 09:28:09,360 WARN  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 21/08/26 09:28:09,379 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 21/08/26 09:28:09,636 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 21/08/26 09:28:10,344 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 21/08/26 09:28:15,622 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 21/08/26 09:28:15,663 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 21/08/26 09:28:15,685 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 21/08/26 09:28:15,702 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 21/08/26 09:28:15,715 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 24/08/26 12:14:05,482 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 24/08/26 12:14:06,220 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 24/08/26 12:14:10,682 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 24/08/26 12:14:10,700 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 24/08/26 12:14:10,904 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 24/08/26 12:14:11,379 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 24/08/26 12:14:11,447 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 24/08/26 12:14:11,518 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 24/08/26 12:14:11,558 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 24/08/26 12:14:11,564 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 24/08/26 12:14:11,755 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 24/08/26 12:14:11,802 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 24/08/26 12:14:12,007 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 24/08/26 12:14:12,046 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 24/08/26 12:14:12,080 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 24/08/26 12:14:12,110 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 24/08/26 12:14:12,144 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 24/08/26 12:14:12,554 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 24/08/26 12:14:12,557 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 24/08/26 12:14:12,661 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 24/08/26 12:14:12,668 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 24/08/26 12:14:12,789 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 24/08/26 12:14:13,190 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 24/08/26 12:14:13,202 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 24/08/26 12:14:13,208 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 24/08/26 12:14:13,608 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 24/08/26 12:14:13,619 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 24/08/26 12:14:15,594 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 24/08/26 12:14:15,678 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 24/08/26 12:14:15,680 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 24/08/26 12:14:15,682 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 24/08/26 12:14:15,727 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 24/08/26 12:14:15,730 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 24/08/26 12:14:15,733 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 24/08/26 12:14:15,736 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 24/08/26 12:14:15,739 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 24/08/26 12:14:15,742 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 24/08/26 12:14:15,745 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 24/08/26 12:14:15,777 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 24/08/26 12:14:15,779 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 24/08/26 12:14:15,782 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 24/08/26 12:14:15,784 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 24/08/26 12:14:15,787 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 24/08/26 12:14:15,790 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 24/08/26 12:14:15,793 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 24/08/26 12:14:15,796 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 24/08/26 12:14:15,801 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 24/08/26 12:14:15,806 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 24/08/26 12:14:15,809 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 24/08/26 12:14:15,812 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 24/08/26 12:14:15,815 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 24/08/26 12:14:15,819 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 24/08/26 12:14:15,822 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 24/08/26 12:14:15,825 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 24/08/26 12:14:15,827 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 24/08/26 12:14:15,830 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 24/08/26 12:14:15,834 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 24/08/26 12:14:15,837 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 24/08/26 12:14:15,839 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 24/08/26 12:14:15,843 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 24/08/26 12:14:15,846 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 24/08/26 12:14:15,848 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 24/08/26 12:14:15,851 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 24/08/26 12:14:15,853 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 24/08/26 12:14:15,879 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 24/08/26 12:14:15,881 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 24/08/26 12:14:15,939 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 24/08/26 12:14:17,975 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 24/08/26 12:14:18,104 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 24/08/26 12:14:19,076 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 24/08/26 12:14:19,538 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 24/08/26 12:14:19,548 WARN  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 24/08/26 12:14:19,655 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 24/08/26 12:14:19,767 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 24/08/26 12:14:20,264 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 24/08/26 12:14:20,277 WARN  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 24/08/26 12:14:20,303 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 24/08/26 12:14:20,678 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 24/08/26 12:14:21,389 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 24/08/26 12:14:26,524 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 24/08/26 12:14:26,542 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 24/08/26 12:14:26,551 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 24/08/26 12:14:26,562 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 24/08/26 12:14:26,570 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 01/09/26 07:40:47,794 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [AdditionalMembersProviders    ] [init@] Started scanning classpath for @Api* annotations and creating Y-stuff
+ 01/09/26 07:40:48,556 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [AdditionalMembersProviders    ] [init@] Done scanning classpath for @Api* annotations and creating Y-stuff
+ 01/09/26 07:40:52,667 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 01/09/26 07:40:52,692 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-scripting-api
+ 01/09/26 07:40:52,889 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 01/09/26 07:40:53,204 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 01/09/26 07:40:53,236 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-import-aux
+ 01/09/26 07:40:53,294 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-import-aux
+ 01/09/26 07:40:53,335 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-asana-client
+ 01/09/26 07:40:53,339 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-atlassian-utils
+ 01/09/26 07:40:53,512 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-bugzilla-client
+ 01/09/26 07:40:53,528 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-clickup-client
+ 01/09/26 07:40:53,820 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-confluence-client
+ 01/09/26 07:40:53,877 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-demo-client
+ 01/09/26 07:40:53,959 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-github-issues-client
+ 01/09/26 07:40:53,991 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-gitlab-client
+ 01/09/26 07:40:54,050 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-wiki-to-markdown-converter
+ 01/09/26 07:40:54,468 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-jira-client
+ 01/09/26 07:40:54,471 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-json-client
+ 01/09/26 07:40:54,573 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-mantis-issues-client
+ 01/09/26 07:40:54,580 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-monday-client
+ 01/09/26 07:40:54,633 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-redmine-client
+ 01/09/26 07:40:54,846 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-space-client
+ 01/09/26 07:40:54,857 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-spreadsheets-client
+ 01/09/26 07:40:54,872 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-youtrack-client
+ 01/09/26 07:40:55,162 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-zendesk-client
+ 01/09/26 07:40:55,195 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-assignee-visibility-group
+ 01/09/26 07:40:57,311 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 01/09/26 07:40:57,428 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 01/09/26 07:40:57,432 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-article
+ 01/09/26 07:40:57,439 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clone-issue
+ 01/09/26 07:40:57,523 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 01/09/26 07:40:57,529 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-default-description
+ 01/09/26 07:40:57,532 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-dependencies
+ 01/09/26 07:40:57,538 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-due-date
+ 01/09/26 07:40:57,546 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-duplicates
+ 01/09/26 07:40:57,551 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-forgotten-attachment
+ 01/09/26 07:40:57,556 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-helpdesk
+ 01/09/26 07:40:57,610 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 01/09/26 07:40:57,614 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-kanban
+ 01/09/26 07:40:57,619 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-reporter-to-approve-fix
+ 01/09/26 07:40:57,624 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-notify-when-dependency-resolved
+ 01/09/26 07:40:57,628 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-one-vote-comment
+ 01/09/26 07:40:57,634 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-pomodoro-timer
+ 01/09/26 07:40:57,638 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-profanity-blocker
+ 01/09/26 07:40:57,641 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-referred-issues
+ 01/09/26 07:40:57,645 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-replace-links
+ 01/09/26 07:40:57,648 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-resolved-votes
+ 01/09/26 07:40:57,652 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum
+ 01/09/26 07:40:57,656 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-scrum-2
+ 01/09/26 07:40:57,662 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-set-fix-versions
+ 01/09/26 07:40:57,676 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-slack-notifications-simple
+ 01/09/26 07:40:57,682 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-spam
+ 01/09/26 07:40:57,692 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-standalone-work-timer
+ 01/09/26 07:40:57,698 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subsystem-assignee
+ 01/09/26 07:40:57,702 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-assignee
+ 01/09/26 07:40:57,707 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-fix-versions
+ 01/09/26 07:40:57,711 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtask-inherit-subsystem
+ 01/09/26 07:40:57,715 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-subtasks
+ 01/09/26 07:40:57,719 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-task-assignee
+ 01/09/26 07:40:57,727 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-time-management
+ 01/09/26 07:40:57,733 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-untag-on-reopen
+ 01/09/26 07:40:57,740 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-update-fix-build
+ 01/09/26 07:40:57,746 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-watcher-by-votes
+ 01/09/26 07:40:57,799 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 01/09/26 07:40:57,807 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-work-timer
+ 01/09/26 07:40:57,855 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-ai-tools
+ 01/09/26 07:40:59,997 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: article-feedback
+ 01/09/26 07:41:00,189 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: documents-list
+ 01/09/26 07:41:01,159 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: issue-dashboard-widgets
+ 01/09/26 07:41:01,471 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: project-team-dashboard-widgets
+ 01/09/26 07:41:01,481 WARN  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Unrecognized [.DS_Store] file encountered in name
+ 01/09/26 07:41:01,565 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: quick-notes
+ 01/09/26 07:41:01,630 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: report-dashboard-widgets
+ 01/09/26 07:41:02,117 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: time-tracking-dashboard-widgets
+ 01/09/26 07:41:02,123 WARN  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Unrecognized [index.html] file encountered in name
+ 01/09/26 07:41:02,139 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: webhook-triggers
+ 01/09/26 07:41:02,273 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: votes-histogram
+ 01/09/26 07:41:02,920 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [RunInContextKt$logger$1       ] [@] Recovered 0 pending async jobs after restart
+ 01/09/26 07:41:07,686 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-auto-raise-priority
+ 01/09/26 07:41:07,722 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-clear-fix-versions
+ 01/09/26 07:41:07,745 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-comments
+ 01/09/26 07:41:07,765 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-issue-properties-combinations
+ 01/09/26 07:41:07,777 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [scripts                       ] [@] Package processed: @jetbrains/youtrack-workflow-wont-fix-build
+ 

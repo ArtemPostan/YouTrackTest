@@ -1,0 +1,3 @@
+13/08/26 13:03:53,938 WARN  [] [nfigurations] [[SplitGithubGitlabUmbrella]] could not find plugin with name @jetbrains/youtrack-github-issues-client, skipping configurations split
+ 13/08/26 13:03:53,938 WARN  [] [nfigurations] [[SplitGithubGitlabUmbrella]] could not find plugin with name @jetbrains/youtrack-gitlab-client, skipping configurations split
+ 

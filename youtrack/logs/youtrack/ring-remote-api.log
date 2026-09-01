@@ -1,0 +1,284 @@
+13/08/26 13:04:00,495 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 13/08/26 13:04:00,524 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 13/08/26 13:04:01,074 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:04:01,178 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 13/08/26 13:04:01,831 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "name" of item [e9574828-671a-464e-a590-41d1e8ca0ab6]
+ 13/08/26 13:04:01,947 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "banned" of item [d4a04e11-abaa-46e6-8a3e-b76537fe6446]
+ 13/08/26 13:04:02,191 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "changes" of item [50]
+ 13/08/26 13:04:02,489 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "VCSUserNames" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:04:03,461 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [system_user@iRkS@] Fetch item field "changes" of item [51]
+ 13/08/26 13:04:03,720 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:04:11,769 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [32]
+ 13/08/26 13:04:11,779 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [33]
+ 13/08/26 13:04:11,788 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [35]
+ 13/08/26 13:04:11,795 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [37]
+ 13/08/26 13:04:11,803 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [39]
+ 13/08/26 13:04:11,812 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [41]
+ 13/08/26 13:04:11,818 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [42]
+ 13/08/26 13:04:11,825 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [43]
+ 13/08/26 13:04:11,833 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [44]
+ 13/08/26 13:04:11,840 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [45]
+ 13/08/26 13:04:11,847 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [46]
+ 13/08/26 13:04:11,854 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [47]
+ 13/08/26 13:04:11,861 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "changes" of item [47]
+ 13/08/26 13:04:11,871 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [49]
+ 13/08/26 13:04:11,903 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [50]
+ 13/08/26 13:04:11,909 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [51]
+ 13/08/26 13:04:11,918 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [52]
+ 13/08/26 13:04:11,924 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [53]
+ 13/08/26 13:04:11,930 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [54]
+ 13/08/26 13:04:11,937 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [55]
+ 13/08/26 13:04:11,943 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [56]
+ 13/08/26 13:04:11,950 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [57]
+ 13/08/26 13:04:11,958 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [58]
+ 13/08/26 13:04:11,974 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [59]
+ 13/08/26 13:04:11,992 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [60]
+ 13/08/26 13:04:11,999 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [61]
+ 13/08/26 13:04:12,561 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteDAO                     ] [admin@] Failed to load fields [id,key,aliases,name,restricted] of item [0-0]
+ 13/08/26 13:04:12,592 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteDAO                     ] [admin@] Fetch item field "targetPresentation" of item [63]
+ 13/08/26 13:04:12,599 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteDAO                     ] [admin@] Fetch item field "authorType" of item [63]
+ 13/08/26 13:04:12,607 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteDAO                     ] [admin@] Fetch item field "authorPresentation" of item [63]
+ 13/08/26 13:04:12,616 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteDAO                     ] [admin@] Fetch item field "timestamp" of item [63]
+ 13/08/26 13:04:12,624 WARN  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteAPI                     ] [admin@] Related data store for the event is not found. The event will be skipped:
+	Target: ProjectTeam Демопроект Team
+	Author: User admin
+	Timestamp: java.util.GregorianCalendar[time=1786626252562,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="UTC",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2026,MONTH=7,WEEK_OF_YEAR=33,WEEK_OF_MONTH=3,DAY_OF_MONTH=13,DAY_OF_YEAR=225,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=2,AM_PM=1,HOUR=1,HOUR_OF_DAY=13,MINUTE=4,SECOND=12,MILLISECOND=562,ZONE_OFFSET=0,DST_OFFSET=0]
+
+ 13/08/26 13:04:12,649 INFO  [d65725be-ac99-38c2-3f14-c84d665f60f2@hub-audit-1    ] [RemoteDAO                     ] [admin@] Fetch item field "changes" of item [64]
+ 13/08/26 13:04:13,893 INFO  [63ba4b6a-5a00-c2e4-61cb-1887c4fb21a6@qtp962373567-59] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:04:13,966 INFO  [63ba4b6a-5a00-c2e4-61cb-1887c4fb21a6@qtp962373567-59] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:04:14,703 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [65]
+ 13/08/26 13:04:17,733 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "targetPresentation" of item [66]
+ 13/08/26 13:04:17,756 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "authorType" of item [66]
+ 13/08/26 13:04:17,767 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "authorPresentation" of item [66]
+ 13/08/26 13:04:17,772 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "timestamp" of item [66]
+ 13/08/26 13:04:17,776 WARN  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteAPI                     ] [Hub Event Sync User@] Related data store for the event is not found. The event will be skipped:
+	Target: AuthorityScopedFeature jetbrains.hub.auth.embedded.login.feature
+	Author: User гость
+	Timestamp: java.util.GregorianCalendar[time=1786626254492,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="UTC",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2026,MONTH=7,WEEK_OF_YEAR=33,WEEK_OF_MONTH=3,DAY_OF_MONTH=13,DAY_OF_YEAR=225,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=2,AM_PM=1,HOUR=1,HOUR_OF_DAY=13,MINUTE=4,SECOND=14,MILLISECOND=492,ZONE_OFFSET=0,DST_OFFSET=0]
+
+ 13/08/26 13:04:17,777 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "targetPresentation" of item [67]
+ 13/08/26 13:04:17,782 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "authorType" of item [67]
+ 13/08/26 13:04:17,786 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "authorPresentation" of item [67]
+ 13/08/26 13:04:17,792 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "timestamp" of item [67]
+ 13/08/26 13:04:17,798 WARN  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteAPI                     ] [Hub Event Sync User@] Related data store for the event is not found. The event will be skipped:
+	Target: AuthorityScopedFeature jetbrains.jetpass.userManagement.limitEmailChanges
+	Author: User гость
+	Timestamp: java.util.GregorianCalendar[time=1786626254496,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="UTC",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2026,MONTH=7,WEEK_OF_YEAR=33,WEEK_OF_MONTH=3,DAY_OF_MONTH=13,DAY_OF_YEAR=225,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=2,AM_PM=1,HOUR=1,HOUR_OF_DAY=13,MINUTE=4,SECOND=14,MILLISECOND=496,ZONE_OFFSET=0,DST_OFFSET=0]
+
+ 13/08/26 13:04:26,183 INFO  [2cce73ba-449e-5c91-e769-0a4640efba35@qtp962373567-56] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:04:26,192 INFO  [2cce73ba-449e-5c91-e769-0a4640efba35@qtp962373567-56] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 13/08/26 13:04:26,200 INFO  [2cce73ba-449e-5c91-e769-0a4640efba35@qtp962373567-56] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 13/08/26 13:04:26,207 INFO  [2cce73ba-449e-5c91-e769-0a4640efba35@qtp962373567-56] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:04:26,214 INFO  [2cce73ba-449e-5c91-e769-0a4640efba35@qtp962373567-56] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:04:26,221 INFO  [2cce73ba-449e-5c91-e769-0a4640efba35@qtp962373567-56] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:15:12,356 INFO  [22dafc63-d4f0-a805-4e28-6fbb2028a3d1@qtp962373567-47] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 13/08/26 13:15:12,385 INFO  [22dafc63-d4f0-a805-4e28-6fbb2028a3d1@qtp962373567-47] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:15:14,705 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [69]
+ 13/08/26 13:15:14,713 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [71]
+ 13/08/26 13:15:18,018 INFO  [8a7cb4b0-6299-c8d8-ea3c-87880baec30c@tp962373567-210] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 13/08/26 13:15:18,023 INFO  [8a7cb4b0-6299-c8d8-ea3c-87880baec30c@tp962373567-210] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 13/08/26 13:15:18,215 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-2] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [73]
+ 13/08/26 13:15:23,712 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-4] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [75]
+ 13/08/26 13:15:23,716 INFO  [cac4aa8f-74c5-e15d-b6db-7f4107f64da6@al-scheduling-4] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [76]
+ 13/08/26 13:15:28,006 INFO  [b3752d67-d810-f1ae-b8fb-6a0dd32e36ae@tp962373567-211] [RemoteDAO                     ] [guest@172.19.0.4] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 13/08/26 13:15:28,018 INFO  [b3752d67-d810-f1ae-b8fb-6a0dd32e36ae@tp962373567-211] [RemoteDAO                     ] [guest@172.19.0.4] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:15:28,031 INFO  [b3752d67-d810-f1ae-b8fb-6a0dd32e36ae@tp962373567-211] [RemoteDAO                     ] [guest@172.19.0.4] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:15:28,042 INFO  [589b4ff3-705b-d39e-eb32-bf02125b8c92@tp962373567-210] [RemoteDAO                     ] [guest@172.19.0.4] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:15:28,049 INFO  [589b4ff3-705b-d39e-eb32-bf02125b8c92@tp962373567-210] [RemoteDAO                     ] [guest@172.19.0.4] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:15:28,043 INFO  [b3752d67-d810-f1ae-b8fb-6a0dd32e36ae@tp962373567-211] [RemoteDAO                     ] [guest@172.19.0.4] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 13/08/26 13:15:31,270 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "guest" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,279 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "login" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,287 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "name" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,292 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "banned" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,296 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "banBadge" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,301 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "creationTime" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,315 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "groups" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 13/08/26 13:15:31,328 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "allUsers" of item [ec180489-82d7-40c1-a3a1-0674795d73b6]
+ 13/08/26 13:15:31,340 INFO  [0e110b56-e197-538d-a19b-fa22d7f4de8e@user-action-4  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "registeredUsers" of item [ec180489-82d7-40c1-a3a1-0674795d73b6]
+ 14/08/26 07:14:56,618 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@b-integration-1] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 14/08/26 07:15:01,324 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 14/08/26 07:15:01,952 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 14/08/26 07:15:02,025 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 14/08/26 07:15:02,867 INFO  [a16fb14f-df9d-795c-9c5f-9d941bee45fd@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 14/08/26 07:15:11,510 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [92]
+ 14/08/26 07:15:11,522 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [93]
+ 14/08/26 07:15:11,528 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [94]
+ 14/08/26 07:15:11,534 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [95]
+ 14/08/26 07:15:11,540 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [96]
+ 14/08/26 07:15:27,898 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 14/08/26 07:15:28,311 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 14/08/26 07:15:28,323 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 14/08/26 07:15:28,332 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 14/08/26 07:15:28,341 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 14/08/26 07:15:28,349 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 14/08/26 07:15:28,358 INFO  [f0a9c8dd-ffe5-1ab3-8a0a-726280f0088c@qtp289303711-60] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 14/08/26 07:15:43,423 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "guest" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,492 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "login" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,534 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "name" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,560 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "banned" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,585 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "banBadge" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,606 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "creationTime" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,633 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "groups" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 14/08/26 07:15:43,684 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "allUsers" of item [ec180489-82d7-40c1-a3a1-0674795d73b6]
+ 14/08/26 07:15:43,742 INFO  [51d4529a-0918-abb3-cc8d-ed2524c77d9b@user-action-1  ] [RemoteDAO                     ] [admin@172.19.0.4] Fetch item field "registeredUsers" of item [ec180489-82d7-40c1-a3a1-0674795d73b6]
+ 15/08/26 13:56:25,476 ERROR [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-3] [RemoteAPI                     ] [Hub Event Sync User@] Synchronization failed
+ javax.ws.rs.NotAuthorizedException: HTTP 401 Unauthorized
+	at org.glassfish.jersey.client.JerseyInvocation.convertToException(JerseyInvocation.java:959)
+	at org.glassfish.jersey.client.JerseyInvocation.translate(JerseyInvocation.java:770)
+	at org.glassfish.jersey.client.JerseyInvocation.lambda$invoke$1(JerseyInvocation.java:687)
+	at org.glassfish.jersey.client.JerseyInvocation.call(JerseyInvocation.java:709)
+	at org.glassfish.jersey.client.JerseyInvocation.lambda$runInScope$3(JerseyInvocation.java:703)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:292)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:274)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:205)
+	at org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:390)
+	at org.glassfish.jersey.client.JerseyInvocation.runInScope(JerseyInvocation.java:703)
+	at org.glassfish.jersey.client.JerseyInvocation.invoke(JerseyInvocation.java:686)
+	at org.glassfish.jersey.client.JerseyInvocation$Builder.method(JerseyInvocation.java:422)
+	at org.glassfish.jersey.client.JerseyInvocation$Builder.get(JerseyInvocation.java:318)
+	at jetbrains.jetpass.client.accounts.EventClient.getEventPage(EventClient.kt:57)
+	at jetbrains.jetpass.dao.remote.api.event.RemoteEventDAO.fetchPage(RemoteEventDAO.kt:50)
+	at jetbrains.jetpass.dao.remote.api.RemoteDAO.fetchPageSafe(RemoteDAO.kt:145)
+	at jetbrains.jetpass.dao.remote.api.RemoteDAO.createIterator$lambda$0(RemoteDAO.kt:140)
+	at jetbrains.jetpass.dao.remote.api.PageIterator.fetchNextPage(PageIterator.kt:41)
+	at jetbrains.jetpass.dao.remote.api.PageIterator.hasNext(PageIterator.kt:23)
+	at jetbrains.jetpass.dao.remote.api.event.RemoteEventDAO.syncDelta(RemoteEventDAO.kt:138)
+	at jetbrains.jetpass.dao.remote.api.RemoteAPI.sync(RemoteAPI.kt:280)
+	at jetbrains.jetpass.dao.remote.api.RemoteAPI.syncCheck(RemoteAPI.kt:257)
+	at jetbrains.jetpass.dao.remote.api.RemoteAPI.syncChecker$lambda$0(RemoteAPI.kt:89)
+	at jetbrains.youtrack.ring.RemoteApiSyncService.syncEvents(RemoteApiSyncService.kt:68)
+	at jetbrains.youtrack.ring.RemoteApiSyncService.execute(RemoteApiSyncService.kt:56)
+	at jetbrains.youtrack.scheduling.LocalScheduling$LocalSchedulingJob.execute(LocalScheduling.kt:33)
+	at jetbrains.youtrack.core.job.AbstractJob.doExecute(AbstractJob.kt:114)
+	at jetbrains.youtrack.core.job.AbstractJob.tryExecute$youtrack_core(AbstractJob.kt:102)
+	at jetbrains.youtrack.core.job.AbstractJobProcessor$JobExecutionTask.executeJob(AbstractJobProcessor.kt:229)
+	at jetbrains.youtrack.core.job.AbstractJobProcessor$JobExecutionTask.runInContext(AbstractJobProcessor.kt:213)
+	at jetbrains.youtrack.core.job.AbstractJobProcessor$JobExecutionTask.run$lambda$0(AbstractJobProcessor.kt:201)
+	at jetbrains.youtrack.core.job.context.TransactionContext.doApply$lambda$0(ExecutionContexts.kt:59)
+	at com.jetbrains.teamsys.dnq.database.TransientEntityStoreExt.transactional(TransientEntityStoreExt.kt:51)
+	at com.jetbrains.teamsys.dnq.database.TransientEntityStoreImpl.transactional(TransientEntityStoreImpl.kt:105)
+	at jetbrains.exodus.database.TransientEntityStore.transactional$default(TransientEntityStore.kt:83)
+	at jetbrains.youtrack.core.TransactionsKt.transactional(Transactions.kt:24)
+	at jetbrains.youtrack.core.TransactionsKt.transactional$default(Transactions.kt:19)
+	at jetbrains.youtrack.core.job.context.TransactionContext.doApply(ExecutionContexts.kt:58)
+	at jetbrains.youtrack.core.job.context.ChainedExecutionContext.apply(ChainedExecutionContext.kt:29)
+	at jetbrains.youtrack.core.job.context.ChainedExecutionContext.apply$lambda$0(ChainedExecutionContext.kt:26)
+	at jetbrains.youtrack.core.job.context.BeanContainerContext.doApply(ExecutionContexts.kt:47)
+	at jetbrains.youtrack.core.job.context.ChainedExecutionContext.apply(ChainedExecutionContext.kt:25)
+	at jetbrains.youtrack.core.job.context.ChainedExecutionContext.apply$lambda$0(ChainedExecutionContext.kt:26)
+	at jetbrains.youtrack.core.job.context.LogExecutionContext.doApply(ExecutionContexts.kt:24)
+	at jetbrains.youtrack.core.job.context.ChainedExecutionContext.apply(ChainedExecutionContext.kt:25)
+	at jetbrains.youtrack.core.job.AbstractJobProcessor$JobExecutionTask.run(AbstractJobProcessor.kt:201)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+17/08/26 12:14:02,484 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-4] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "changes" of item [97]
+ 17/08/26 12:14:02,559 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-4] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [97]
+ 17/08/26 12:14:02,603 INFO  [c8234a00-d3cf-21aa-09aa-e97b61463abd@al-scheduling-4] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "eraseTimestamp" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,455 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "guest" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,463 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "login" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,469 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "name" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,473 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "banned" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,478 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "banBadge" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,485 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "creationTime" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 17/08/26 12:17:56,492 INFO  [219a42ed-f46d-0679-b709-276660f716bd@user-action-18 ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "groups" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 18/08/26 09:05:58,311 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@b-integration-1] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 18/08/26 09:06:01,294 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 18/08/26 09:06:01,764 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 18/08/26 09:06:01,836 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 18/08/26 09:06:02,371 INFO  [d0e63c5e-228a-6c1d-b547-24494c2180c5@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 18/08/26 09:06:11,603 INFO  [90c23797-8d52-ca98-deb1-0baa327e608b@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [100]
+ 18/08/26 09:06:11,623 INFO  [90c23797-8d52-ca98-deb1-0baa327e608b@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [101]
+ 18/08/26 09:06:11,636 INFO  [90c23797-8d52-ca98-deb1-0baa327e608b@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [102]
+ 18/08/26 09:06:11,649 INFO  [90c23797-8d52-ca98-deb1-0baa327e608b@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [103]
+ 18/08/26 09:06:22,986 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 18/08/26 09:06:23,353 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 18/08/26 09:06:23,363 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 18/08/26 09:06:23,372 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 18/08/26 09:06:23,379 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 18/08/26 09:06:23,385 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 18/08/26 09:06:23,392 INFO  [ed272dfa-cd5b-5b1f-ae4d-fe3755e4830a@qtp289303711-53] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 19/08/26 08:04:55,617 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "guest" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,641 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "login" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,645 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "name" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,648 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "banned" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,652 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "banBadge" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,655 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "creationTime" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,659 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "groups" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 19/08/26 08:04:55,666 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "allUsers" of item [ec180489-82d7-40c1-a3a1-0674795d73b6]
+ 19/08/26 08:04:55,703 INFO  [72c0c49e-37ba-dc87-3632-08a39b4b4f61@user-action-3  ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "registeredUsers" of item [ec180489-82d7-40c1-a3a1-0674795d73b6]
+ 20/08/26 07:58:28,131 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@b-integration-1] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 20/08/26 07:58:32,952 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 20/08/26 07:58:33,361 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 20/08/26 07:58:33,408 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 20/08/26 07:58:33,759 INFO  [2fb041fb-e854-7258-2ad9-bc92e34c8685@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 20/08/26 07:58:41,662 INFO  [47f90359-cd1e-7ab1-de47-013e7007818c@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [106]
+ 20/08/26 07:58:41,679 INFO  [47f90359-cd1e-7ab1-de47-013e7007818c@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [107]
+ 20/08/26 07:58:41,685 INFO  [47f90359-cd1e-7ab1-de47-013e7007818c@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [108]
+ 20/08/26 07:58:41,695 INFO  [47f90359-cd1e-7ab1-de47-013e7007818c@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [109]
+ 20/08/26 07:58:54,229 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 20/08/26 07:58:54,617 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 20/08/26 07:58:54,632 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 20/08/26 07:58:54,641 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 20/08/26 07:58:54,649 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 20/08/26 07:58:54,655 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 20/08/26 07:58:54,663 INFO  [9b8e2a55-da2e-f2b7-4d83-4cb2b123fe6f@qtp30800650-56 ] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 21/08/26 09:27:59,454 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@b-integration-1] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 21/08/26 09:28:05,642 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 21/08/26 09:28:06,400 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 21/08/26 09:28:06,475 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 21/08/26 09:28:07,037 INFO  [9ac88591-a1e5-3143-1c6b-8f7ec0d3987d@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 21/08/26 09:28:15,838 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [112]
+ 21/08/26 09:28:15,850 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [113]
+ 21/08/26 09:28:15,858 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [114]
+ 21/08/26 09:28:15,866 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-1] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [115]
+ 21/08/26 09:29:30,602 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 21/08/26 09:29:31,031 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 21/08/26 09:29:31,042 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 21/08/26 09:29:31,048 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 21/08/26 09:29:31,058 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 21/08/26 09:29:31,066 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 21/08/26 09:29:31,074 INFO  [fdef8b21-3459-47e7-e4e9-dcd96a5dc569@qtp403945022-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 21/08/26 09:48:09,807 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-3] [RemoteDAO                     ] [Hub Event Sync User@] Fetch item field "changes" of item [116]
+ 21/08/26 09:48:09,828 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [116]
+ 21/08/26 09:48:09,840 INFO  [294170ae-846a-0d69-d659-ed183ad84d35@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "eraseTimestamp" of item [81e9d0d5-1200-49c0-99db-bf14d37ee05b]
+ 21/08/26 10:52:47,515 INFO  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteDAO                     ] [admin@172.19.0.1] Failed to load fields [id,key,aliases,name,restricted] of item [0-1]
+ 21/08/26 10:52:47,536 INFO  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "targetPresentation" of item [118]
+ 21/08/26 10:52:47,542 INFO  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "authorType" of item [118]
+ 21/08/26 10:52:47,545 INFO  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "authorPresentation" of item [118]
+ 21/08/26 10:52:47,548 INFO  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "timestamp" of item [118]
+ 21/08/26 10:52:47,553 WARN  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteAPI                     ] [admin@172.19.0.1] Related data store for the event is not found. The event will be skipped:
+	Target: ProjectTeam Test_Project Team
+	Author: User admin
+	Timestamp: java.util.GregorianCalendar[time=1787309567516,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="UTC",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2026,MONTH=7,WEEK_OF_YEAR=34,WEEK_OF_MONTH=4,DAY_OF_MONTH=21,DAY_OF_YEAR=233,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=3,AM_PM=0,HOUR=10,HOUR_OF_DAY=10,MINUTE=52,SECOND=47,MILLISECOND=516,ZONE_OFFSET=0,DST_OFFSET=0]
+
+ 21/08/26 10:52:47,571 INFO  [c8c93373-d829-6839-69d6-3f656c0912c8@hub-audit-1    ] [RemoteDAO                     ] [admin@172.19.0.1] Fetch item field "changes" of item [119]
+ 24/08/26 12:14:11,023 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@b-integration-1] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 24/08/26 12:14:16,452 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 24/08/26 12:14:17,131 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 24/08/26 12:14:17,214 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 24/08/26 12:14:17,580 INFO  [41b228ff-69ef-b9e3-7f1f-ced14e4505d8@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 24/08/26 12:14:26,684 INFO  [304c5640-742a-3ef6-d5e6-c9ff3d657890@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [122]
+ 24/08/26 12:14:26,696 INFO  [304c5640-742a-3ef6-d5e6-c9ff3d657890@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [123]
+ 24/08/26 12:14:26,703 INFO  [304c5640-742a-3ef6-d5e6-c9ff3d657890@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [124]
+ 24/08/26 12:14:26,709 INFO  [304c5640-742a-3ef6-d5e6-c9ff3d657890@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [125]
+ 24/08/26 12:15:14,713 INFO  [2343a624-7ef3-42d9-c40f-415bf67c43af@qtp289303711-54] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 24/08/26 12:15:15,672 INFO  [cc56f5b5-8af7-d701-ead4-9877c0732579@qtp289303711-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 24/08/26 12:15:15,682 INFO  [cc56f5b5-8af7-d701-ead4-9877c0732579@qtp289303711-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [77bd22fe-6907-49b5-8bc7-4a57ec069865]
+ 24/08/26 12:15:15,691 INFO  [cc56f5b5-8af7-d701-ead4-9877c0732579@qtp289303711-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [0-0-0-0-0]
+ 24/08/26 12:15:15,699 INFO  [cc56f5b5-8af7-d701-ead4-9877c0732579@qtp289303711-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "applicationName" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 24/08/26 12:15:15,708 INFO  [cc56f5b5-8af7-d701-ead4-9877c0732579@qtp289303711-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "key" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 24/08/26 12:15:15,718 INFO  [cc56f5b5-8af7-d701-ead4-9877c0732579@qtp289303711-62] [RemoteDAO                     ] [guest@172.19.0.1] Fetch item field "homeUrl" of item [54b0ab5b-07bc-44de-8ffe-aad3d4f70251]
+ 01/09/26 07:40:53,081 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@b-integration-1] [RemoteDAO                     ] [@] Fetch item field "apiVersion" of item [0-0-0-0-0]
+ 01/09/26 07:40:58,594 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "redirectUris" of item [0-0-0-0-0]
+ 01/09/26 07:40:59,296 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 01/09/26 07:40:59,347 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "databaseReadonly" of item [6179631c-35b7-4ae0-a8bd-b40988264e98]
+ 01/09/26 07:40:59,748 INFO  [b0d8f1ea-d3fe-618c-257a-5841115f2e4e@init servlet   ] [RemoteDAO                     ] [@] Fetch item field "baseUrls" of item [65c3714a-9d72-49d4-b98b-dc8fe4215020]
+ 01/09/26 07:41:07,905 INFO  [9f5139a8-df83-8aa1-6cce-95d58fe74bba@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [128]
+ 01/09/26 07:41:07,925 INFO  [9f5139a8-df83-8aa1-6cce-95d58fe74bba@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [129]
+ 01/09/26 07:41:07,937 INFO  [9f5139a8-df83-8aa1-6cce-95d58fe74bba@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [130]
+ 01/09/26 07:41:07,946 INFO  [9f5139a8-df83-8aa1-6cce-95d58fe74bba@al-scheduling-3] [RemoteDAO                     ] [system_user@hRu2@] Fetch item field "author" of item [131]
+ 

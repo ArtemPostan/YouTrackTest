@@ -1,0 +1,571 @@
+[2026-08-13 13:02:38,319]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-13 13:02:38,329]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-13 13:02:38,336]   INFO -                 bundle.startup - Configuring Configuration Wizard 
+[2026-08-13 13:02:38,364]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-13 13:02:38,391]   INFO -     org.eclipse.jetty.util.log - Logging initialized @1440ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-13 13:02:38,465]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-13 13:02:38,520]   INFO - .server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@482ebc8b{/bundle/starting,null,AVAILABLE} 
+[2026-08-13 13:02:38,523]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@435d36e3{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-13 13:02:38,555]   INFO - jetty.server.AbstractConnector - Started ServerConnector@5e91d023{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-13 13:02:38,557]   INFO - rg.eclipse.jetty.server.Server - Started @1607ms 
+[2026-08-13 13:02:38,566]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-13 13:02:38,769]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=113ms 
+[2026-08-13 13:02:38,862]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-13 13:02:38,882]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-13 13:02:38,883]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-13 13:02:38,884]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 660000ms 
+[2026-08-13 13:02:38,905]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-13 13:02:38,906]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-13 13:02:39,778]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 871 ms 
+[2026-08-13 13:02:39,779]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@319e695a{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-13 13:02:39,789]   INFO -                 bundle.startup - Starting Configuration Wizard 
+[2026-08-13 13:02:39,790]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 Configuration Wizard will listen inside container on {0.0.0.0:8080}/ after start and can be accessed by URL [http://<put-your-docker-HOST-name-here>:<put-host-port-mapped-to-container-port-8080-here>//?wizard_token=CazGnd01NRAThaCqQqHm] 
+[2026-08-13 13:02:40,840]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=960ms 
+[2026-08-13 13:02:40,865]   INFO - er.handler.ContextHandler.ROOT - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-13 13:02:40,875]   INFO - er.handler.ContextHandler.ROOT - Initializing Spring DispatcherServlet 'InstallerServletDispatcher' 
+[2026-08-13 13:02:40,876]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'InstallerServletDispatcher' 
+[2026-08-13 13:02:41,860]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 983 ms 
+[2026-08-13 13:02:41,861]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1619db8{/,file:///opt/youtrack/internal/wizard_web/,AVAILABLE} 
+[2026-08-13 13:03:11,582]   INFO -                 bundle.startup - Stopping Configuration Wizard 
+[2026-08-13 13:03:11,585]   INFO - er.handler.ContextHandler.ROOT - Destroying Spring FrameworkServlet 'InstallerServletDispatcher' 
+[2026-08-13 13:03:11,589]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1619db8{/,file:///opt/youtrack/internal/wizard_web/,STOPPED} 
+[2026-08-13 13:03:11,591]   INFO -                 bundle.startup - Stopping Bundle Backend Service 
+[2026-08-13 13:03:11,593]   INFO - .ContextHandler.bundle_backend - Destroying Spring FrameworkServlet 'BundleBackendServletDispatcher' 
+[2026-08-13 13:03:11,596]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@319e695a{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,STOPPED} 
+[2026-08-13 13:03:11,597]   INFO -                 bundle.startup - Stopping Service-Container[bundleProcess] 
+[2026-08-13 13:03:11,609]   INFO - bundle.proxy.jetty.BundleProxy - Stopping Service-Container[bundleProcess] 
+[2026-08-13 13:03:11,616]   INFO - jetty.server.AbstractConnector - Stopped ServerConnector@5e91d023{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-13 13:03:11,617]   INFO - g.eclipse.jetty.server.session - node0 Stopped scavenging 
+[2026-08-13 13:03:11,618]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@435d36e3{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-13 13:03:11,619]   INFO - .server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@482ebc8b{/bundle/starting,null,STOPPED} 
+[2026-08-13 13:03:11,623]   INFO -                 bundle.startup - Configuring JetBrains YouTrack 2026.2 
+[2026-08-13 13:03:11,624]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 runtime environment is successfully configured 
+[2026-08-13 13:03:13,196]   INFO -                 bundle.startup - Stopping Configuration Wizard 
+[2026-08-13 13:03:13,212]   INFO -                 bundle.startup - Stopping Bundle Backend Service 
+[2026-08-13 13:03:13,221]   INFO -                 bundle.startup - Stopping Service-Container[bundleProcess] 
+[2026-08-13 13:03:16,798]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-08-13 13:03:16,799]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-13 13:03:16,808]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-13 13:03:16,814]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-08-13 13:03:16,825]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-08-13 13:03:16,835]   INFO -                 bundle.startup - Configuring Hub 
+[2026-08-13 13:03:17,071]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-08-13 13:03:17,072]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-08-13 13:03:17,284]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-13 13:03:17,306]   INFO -     org.eclipse.jetty.util.log - Logging initialized @1610ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-13 13:03:17,378]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-13 13:03:17,411]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@1e3ecc96{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-13 13:03:17,423]   INFO - jetty.server.AbstractConnector - Started ServerConnector@1e1173a0{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-13 13:03:17,424]   INFO - rg.eclipse.jetty.server.Server - Started @1728ms 
+[2026-08-13 13:03:17,431]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-13 13:03:17,647]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=123ms 
+[2026-08-13 13:03:17,749]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-13 13:03:17,772]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-13 13:03:17,774]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-13 13:03:17,776]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 600000ms 
+[2026-08-13 13:03:17,797]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-13 13:03:17,798]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-13 13:03:18,709]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 911 ms 
+[2026-08-13 13:03:18,710]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@6fbbedbb{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-13 13:03:18,720]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-08-13 13:03:18,721]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will listen inside container on {0.0.0.0:8080}/bundle/starting after start and can be accessed by URL [http://<put-your-docker-HOST-name-here>:<put-host-port-mapped-to-container-port-8080-here>/bundle/starting] 
+[2026-08-13 13:03:18,843]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=77ms 
+[2026-08-13 13:03:18,867]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-13 13:03:18,878]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-08-13 13:03:18,879]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-08-13 13:03:19,322]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 442 ms 
+[2026-08-13 13:03:19,324]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@5010a4ad{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-08-13 13:03:19,337]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-08-13 13:03:19,483]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=63ms 
+[2026-08-13 13:03:19,502]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-13 13:03:19,510]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-08-13 13:03:19,512]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-08-13 13:03:19,915]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 403 ms 
+[2026-08-13 13:03:19,924]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-08-13 13:03:19,924]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-08-13 13:03:19,926]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+[2026-08-13 13:03:19,926]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@6714c0eb{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-08-13 13:03:19,936]   INFO -                 bundle.startup - Starting Hub 
+[2026-08-13 13:03:31,036]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1ff36fc2{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-08-13 13:03:31,081]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-08-13 13:03:33,485]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-08-13 13:04:13,561]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@37accc1d{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-08-13 13:04:16,221]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@1e3ecc96{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-13 16:50:29,809]   INFO -                 bundle.startup - Stopping YouTrack 
+[2026-08-13 16:50:30,653]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@37accc1d{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,STOPPED} 
+[2026-08-13 16:50:30,655]   INFO -                 bundle.startup - Stopping Bundle Hub Configurator 
+[2026-08-13 16:50:30,658]   INFO -                 bundle.startup - Stopping Hub 
+[2026-08-13 16:50:30,813]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1ff36fc2{/hub,file:///opt/youtrack/apps/hub/web/,STOPPED} 
+[2026-08-13 16:50:30,814]   INFO -                 bundle.startup - Stopping YouTrack Configurator 
+[2026-08-13 16:50:30,827]   INFO - er.ContextHandler.bundle_admin - Destroying Spring FrameworkServlet 'AdminConsoleServletDispatcher' 
+[2026-08-13 16:50:30,846]   INFO - er.ContextHandler.bundle_admin - Closing Spring root WebApplicationContext 
+[2026-08-13 16:50:30,857]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@6714c0eb{/bundle/admin,file:///opt/youtrack/internal/admin_console/,STOPPED} 
+[2026-08-13 16:50:30,859]   INFO -                 bundle.startup - Stopping Starting Page Service 
+[2026-08-13 16:50:30,862]   INFO - ContextHandler.bundle_starting - Destroying Spring FrameworkServlet 'StartingPageServletDispatcher' 
+[2026-08-13 16:50:30,883]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@5010a4ad{/bundle/starting,file:///opt/youtrack/internal/starting_page/,STOPPED} 
+[2026-08-13 16:50:30,884]   INFO -                 bundle.startup - Stopping Bundle Backend Service 
+[2026-08-13 16:50:30,887]   INFO - .ContextHandler.bundle_backend - Destroying Spring FrameworkServlet 'BundleBackendServletDispatcher' 
+[2026-08-13 16:50:30,909]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@6fbbedbb{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,STOPPED} 
+[2026-08-13 16:50:30,911]   INFO -                 bundle.startup - Stopping Service-Container[bundleProcess] 
+[2026-08-13 16:50:30,925]   INFO - bundle.proxy.jetty.BundleProxy - Stopping Service-Container[bundleProcess] 
+[2026-08-13 16:50:30,954]   INFO - jetty.server.AbstractConnector - Stopped ServerConnector@1e1173a0{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-13 16:50:30,955]   INFO - g.eclipse.jetty.server.session - node0 Stopped scavenging 
+[2026-08-14 07:14:08,145]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-08-14 07:14:08,147]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-14 07:14:08,172]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-14 07:14:08,215]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-08-14 07:14:08,255]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-08-14 07:14:08,297]   INFO -                 bundle.startup - Configuring Hub 
+[2026-08-14 07:14:08,630]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-08-14 07:14:08,632]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-08-14 07:14:08,989]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-14 07:14:09,021]   INFO -     org.eclipse.jetty.util.log - Logging initialized @3160ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-14 07:14:09,124]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-14 07:14:09,172]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-14 07:14:09,197]   INFO - jetty.server.AbstractConnector - Started ServerConnector@7019f07b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-14 07:14:09,199]   INFO - rg.eclipse.jetty.server.Server - Started @3338ms 
+[2026-08-14 07:14:09,216]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-14 07:14:09,561]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=167ms 
+[2026-08-14 07:14:09,680]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-14 07:14:09,714]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-14 07:14:09,716]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-14 07:14:09,719]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 660000ms 
+[2026-08-14 07:14:09,739]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-14 07:14:09,741]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-14 07:14:10,794]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1051 ms 
+[2026-08-14 07:14:10,795]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@46da827c{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-14 07:14:10,811]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-08-14 07:14:10,812]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will be available on [http://youtrack-server:8080/bundle/starting] after start 
+[2026-08-14 07:14:10,963]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=88ms 
+[2026-08-14 07:14:10,994]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-14 07:14:11,006]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-08-14 07:14:11,007]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-08-14 07:14:11,475]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 466 ms 
+[2026-08-14 07:14:11,476]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@f078b02{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-08-14 07:14:11,487]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-08-14 07:14:11,687]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=90ms 
+[2026-08-14 07:14:11,709]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-14 07:14:11,717]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-08-14 07:14:11,719]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-08-14 07:14:12,223]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 503 ms 
+[2026-08-14 07:14:12,230]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-08-14 07:14:12,231]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-08-14 07:14:12,234]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 2 ms 
+[2026-08-14 07:14:12,235]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@27f44c31{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-08-14 07:14:12,251]   INFO -                 bundle.startup - Starting Hub 
+[2026-08-14 07:14:27,436]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1a12053f{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-08-14 07:14:27,496]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-08-14 07:14:30,326]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-08-14 07:15:11,493]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@660bbf8e{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-08-14 07:15:14,216]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-17 11:37:27,106]   WARN - lipse.jetty.server.HttpChannel - /hub/auth/oauth/error 
+jetbrains.hub.server.core.ItemNotFoundException: Item of type Service with id [9ca02ece-778a-4e3d-b86c-e4b9edbeeffa] is not found
+	at jetbrains.jetpass.dao.dnq.api.service.ServiceMatcherImpl.getService$lambda$0(ServiceMatcherImpl.kt:25) ~[?:?]
+	at jetbrains.jetpass.dao.dnq.api.DataAccessExceptionUtilKt.daoTransaction$lambda$0(DataAccessExceptionUtil.kt:37) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.transactional(Transaction.kt:86) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.transactional$default(Transaction.kt:66) ~[?:?]
+	at jetbrains.jetpass.dao.dnq.api.DataAccessExceptionUtilKt.daoTransaction(DataAccessExceptionUtil.kt:37) ~[?:?]
+	at jetbrains.jetpass.dao.dnq.api.DataAccessExceptionUtilKt.daoTx(DataAccessExceptionUtil.kt:31) ~[?:?]
+	at jetbrains.jetpass.dao.dnq.api.service.ServiceMatcherImpl.getService(ServiceMatcherImpl.kt:24) ~[?:?]
+	at jetbrains.jetpass.dao.dnq.CspProvider.getDomains$lambda$0(CspProvider.kt:20) ~[?:?]
+	at jetbrains.hub.server.core.authority.HubPrincipalManagerKt.runAsRootInTx$lambda$0$0(HubPrincipalManager.kt:45) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.transactional(Transaction.kt:86) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.transactional$default(Transaction.kt:66) ~[?:?]
+	at jetbrains.hub.server.core.authority.HubPrincipalManagerKt.runAsRootInTx$lambda$0(HubPrincipalManager.kt:44) ~[?:?]
+	at jetbrains.hub.server.console.HubPrincipalManagerImpl.runAs(HubPrincipalManagerImpl.kt:85) ~[?:?]
+	at jetbrains.hub.server.console.HubPrincipalManagerImpl.runAsRoot(HubPrincipalManagerImpl.kt:92) ~[?:?]
+	at jetbrains.hub.server.core.authority.HubPrincipalManagerKt.runAsRootInTx(HubPrincipalManager.kt:43) ~[?:?]
+	at jetbrains.jetpass.dao.dnq.CspProvider.getDomains(CspProvider.kt:15) ~[?:?]
+	at jetbrains.hub.server.filter.XAuthFrameOptionsFilter.getAllowedOrigins$lambda$0(XAuthFrameOptionsFilter.kt:40) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.runInTransaction$lambda$1(Transaction.kt:98) ~[?:?]
+	at com.jetbrains.teamsys.dnq.database.TransientEntityStoreExt.transactional(TransientEntityStoreExt.kt:51) ~[?:?]
+	at com.jetbrains.teamsys.dnq.database.TransientEntityStoreImpl.transactional(TransientEntityStoreImpl.kt:102) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.xdTx(Transaction.kt:113) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.runInTransaction(Transaction.kt:98) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.transactional(Transaction.kt:79) ~[?:?]
+	at jetbrains.hub.server.core.db.TransactionKt.transactional$default(Transaction.kt:66) ~[?:?]
+	at jetbrains.hub.server.filter.XAuthFrameOptionsFilter.getAllowedOrigins(XAuthFrameOptionsFilter.kt:39) ~[?:?]
+	at jetbrains.hub.server.filter.XAuthFrameOptionsFilter.doFilter(XAuthFrameOptionsFilter.kt:22) ~[?:?]
+	at jetbrains.hub.server.filter.FilterAdapter.doFilter(FilterAdapter.kt:15) ~[?:?]
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1626) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at jetbrains.hub.server.filter.LocalScopeFilter.doFilter(LocalScopeFilter.kt:19) ~[?:?]
+	at jetbrains.hub.server.filter.FilterAdapter.doFilter(FilterAdapter.kt:15) ~[?:?]
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1626) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at jetbrains.hub.server.filter.SecurityHeadersFilter.doFilter(SecurityHeadersFilter.kt:19) ~[?:?]
+	at jetbrains.hub.server.filter.FilterAdapter.doFilter(FilterAdapter.kt:15) ~[?:?]
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1626) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at jetbrains.hub.server.filter.SourceMapsFilter.doFilter(SourceMapsFilter.kt:35) ~[?:?]
+	at jetbrains.hub.server.filter.FilterAdapter.doFilter(FilterAdapter.kt:15) ~[?:?]
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1626) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at jetbrains.hub.server.filter.LoggingFilter.doFilter(LoggingFilter.kt:26) ~[?:?]
+	at jetbrains.hub.server.filter.FilterAdapter.doFilter(FilterAdapter.kt:15) ~[?:?]
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1626) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at jetbrains.hub.server.filter.UrlRewriteFilter.doFilter(UrlRewriteFilter.kt:38) ~[?:?]
+	at jetbrains.hub.server.filter.FilterAdapter.doFilter(FilterAdapter.kt:15) ~[?:?]
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1626) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:552) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.gzip.GzipHandler.handle(GzipHandler.java:772) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:600) ~[jetty-security-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1440) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:505) ~[jetty-servlet-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1355) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:234) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.Server.handle(Server.java:516) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:487) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:732) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:479) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277) ~[jetty-server-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:131) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:409) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034) ~[jetty-util-9.4.58.v20250814.jar:9.4.58.v20250814]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[2026-08-18 09:05:19,088]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-08-18 09:05:19,090]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-18 09:05:19,104]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-18 09:05:19,116]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-08-18 09:05:19,128]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-08-18 09:05:19,140]   INFO -                 bundle.startup - Configuring Hub 
+[2026-08-18 09:05:19,457]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-08-18 09:05:19,458]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-08-18 09:05:19,954]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-18 09:05:20,002]   INFO -     org.eclipse.jetty.util.log - Logging initialized @2905ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-18 09:05:20,223]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-18 09:05:20,253]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-18 09:05:20,266]   INFO - jetty.server.AbstractConnector - Started ServerConnector@7019f07b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-18 09:05:20,267]   INFO - rg.eclipse.jetty.server.Server - Started @3171ms 
+[2026-08-18 09:05:20,281]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-18 09:05:20,523]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=128ms 
+[2026-08-18 09:05:20,614]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-18 09:05:20,633]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-18 09:05:20,634]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-18 09:05:20,635]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 600000ms 
+[2026-08-18 09:05:20,651]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-18 09:05:20,652]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-18 09:05:21,536]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 883 ms 
+[2026-08-18 09:05:21,537]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@46da827c{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-18 09:05:21,557]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-08-18 09:05:21,558]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will be available on [http://youtrack-server:8080/bundle/starting] after start 
+[2026-08-18 09:05:21,714]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=95ms 
+[2026-08-18 09:05:21,735]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-18 09:05:21,747]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-08-18 09:05:21,748]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-08-18 09:05:22,091]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 340 ms 
+[2026-08-18 09:05:22,092]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@f078b02{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-08-18 09:05:22,110]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-08-18 09:05:22,308]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=75ms 
+[2026-08-18 09:05:22,324]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-18 09:05:22,331]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-08-18 09:05:22,332]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-08-18 09:05:22,682]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 349 ms 
+[2026-08-18 09:05:22,687]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-08-18 09:05:22,688]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-08-18 09:05:22,690]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 2 ms 
+[2026-08-18 09:05:22,690]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@27f44c31{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-08-18 09:05:22,701]   INFO -                 bundle.startup - Starting Hub 
+[2026-08-18 09:05:34,767]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@402be826{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-08-18 09:05:34,818]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-08-18 09:05:37,126]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-08-18 09:06:11,584]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@42d83c21{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-08-18 09:06:14,366]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-20 07:56:07,712]   INFO -                 bundle.startup - Stopping YouTrack 
+[2026-08-20 07:56:09,238]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@42d83c21{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,STOPPED} 
+[2026-08-20 07:56:09,242]   INFO -                 bundle.startup - Stopping Bundle Hub Configurator 
+[2026-08-20 07:56:09,247]   INFO -                 bundle.startup - Stopping Hub 
+[2026-08-20 07:56:09,396]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@402be826{/hub,file:///opt/youtrack/apps/hub/web/,STOPPED} 
+[2026-08-20 07:56:09,397]   INFO -                 bundle.startup - Stopping YouTrack Configurator 
+[2026-08-20 07:56:09,405]   INFO - er.ContextHandler.bundle_admin - Destroying Spring FrameworkServlet 'AdminConsoleServletDispatcher' 
+[2026-08-20 07:56:09,420]   INFO - er.ContextHandler.bundle_admin - Closing Spring root WebApplicationContext 
+[2026-08-20 07:57:52,538]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-08-20 07:57:52,539]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-20 07:57:52,574]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-20 07:57:52,635]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-08-20 07:57:52,742]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-08-20 07:57:52,836]   INFO -                 bundle.startup - Configuring Hub 
+[2026-08-20 07:57:53,165]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-08-20 07:57:53,166]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-08-20 07:57:53,430]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-20 07:57:53,460]   INFO -     org.eclipse.jetty.util.log - Logging initialized @2724ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-20 07:57:53,567]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-20 07:57:53,616]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@4e8fa70{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-20 07:57:53,637]   INFO - jetty.server.AbstractConnector - Started ServerConnector@1b98977e{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-20 07:57:53,639]   INFO - rg.eclipse.jetty.server.Server - Started @2903ms 
+[2026-08-20 07:57:53,653]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-20 07:57:53,986]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=161ms 
+[2026-08-20 07:57:54,141]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-20 07:57:54,173]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-20 07:57:54,174]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-20 07:57:54,177]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 660000ms 
+[2026-08-20 07:57:54,205]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-20 07:57:54,207]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-20 07:57:55,454]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1246 ms 
+[2026-08-20 07:57:55,455]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@7d3f7eb{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-20 07:57:55,468]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-08-20 07:57:55,469]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will be available on [http://youtrack-server:8080/bundle/starting] after start 
+[2026-08-20 07:57:55,614]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=83ms 
+[2026-08-20 07:57:55,642]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-20 07:57:55,653]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-08-20 07:57:55,654]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-08-20 07:57:56,077]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 422 ms 
+[2026-08-20 07:57:56,078]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@7197cbb2{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-08-20 07:57:56,090]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-08-20 07:57:56,320]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=100ms 
+[2026-08-20 07:57:56,348]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-20 07:57:56,357]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-08-20 07:57:56,358]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-08-20 07:57:56,714]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 355 ms 
+[2026-08-20 07:57:56,724]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-08-20 07:57:56,725]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-08-20 07:57:56,726]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 0 ms 
+[2026-08-20 07:57:56,728]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@174d28bd{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-08-20 07:57:56,746]   INFO -                 bundle.startup - Starting Hub 
+[2026-08-20 07:58:05,898]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@76508617{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-08-20 07:58:05,931]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-08-20 07:58:08,236]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-08-20 07:58:41,639]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@7e1ac224{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-08-20 07:58:44,227]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@4e8fa70{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-20 08:00:03,910]   INFO -                 bundle.startup - Stopping YouTrack 
+[2026-08-20 08:00:04,364]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@7e1ac224{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,STOPPED} 
+[2026-08-20 08:00:04,368]   INFO -                 bundle.startup - Stopping Bundle Hub Configurator 
+[2026-08-20 08:00:04,370]   INFO -                 bundle.startup - Stopping Hub 
+[2026-08-20 08:00:04,442]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@76508617{/hub,file:///opt/youtrack/apps/hub/web/,STOPPED} 
+[2026-08-20 08:00:04,444]   INFO -                 bundle.startup - Stopping YouTrack Configurator 
+[2026-08-20 08:00:04,448]   INFO - er.ContextHandler.bundle_admin - Destroying Spring FrameworkServlet 'AdminConsoleServletDispatcher' 
+[2026-08-20 08:00:04,450]   INFO - er.ContextHandler.bundle_admin - Closing Spring root WebApplicationContext 
+[2026-08-20 08:00:04,452]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@174d28bd{/bundle/admin,file:///opt/youtrack/internal/admin_console/,STOPPED} 
+[2026-08-20 08:00:04,453]   INFO -                 bundle.startup - Stopping Starting Page Service 
+[2026-08-20 08:00:04,454]   INFO - ContextHandler.bundle_starting - Destroying Spring FrameworkServlet 'StartingPageServletDispatcher' 
+[2026-08-20 08:00:04,456]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@7197cbb2{/bundle/starting,file:///opt/youtrack/internal/starting_page/,STOPPED} 
+[2026-08-20 08:00:04,457]   INFO -                 bundle.startup - Stopping Bundle Backend Service 
+[2026-08-20 08:00:04,458]   INFO - .ContextHandler.bundle_backend - Destroying Spring FrameworkServlet 'BundleBackendServletDispatcher' 
+[2026-08-20 08:00:04,460]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@7d3f7eb{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,STOPPED} 
+[2026-08-20 08:00:04,462]   INFO -                 bundle.startup - Stopping Service-Container[bundleProcess] 
+[2026-08-20 08:00:04,478]   INFO - bundle.proxy.jetty.BundleProxy - Stopping Service-Container[bundleProcess] 
+[2026-08-20 08:00:04,485]   INFO - jetty.server.AbstractConnector - Stopped ServerConnector@1b98977e{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-20 08:00:04,486]   INFO - g.eclipse.jetty.server.session - node0 Stopped scavenging 
+[2026-08-21 09:27:19,989]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-08-21 09:27:19,990]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-21 09:27:20,026]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-21 09:27:20,090]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-08-21 09:27:20,113]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-08-21 09:27:20,159]   INFO -                 bundle.startup - Configuring Hub 
+[2026-08-21 09:27:20,593]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-08-21 09:27:20,596]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-08-21 09:27:20,927]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-21 09:27:20,974]   INFO -     org.eclipse.jetty.util.log - Logging initialized @2807ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-21 09:27:21,055]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-21 09:27:21,092]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@37fc13c1{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-21 09:27:21,113]   INFO - jetty.server.AbstractConnector - Started ServerConnector@48af2b24{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-21 09:27:21,114]   INFO - rg.eclipse.jetty.server.Server - Started @2947ms 
+[2026-08-21 09:27:21,133]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-21 09:27:21,399]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=150ms 
+[2026-08-21 09:27:21,507]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-21 09:27:21,534]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-21 09:27:21,545]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-21 09:27:21,558]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 600000ms 
+[2026-08-21 09:27:21,588]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-21 09:27:21,599]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-21 09:27:22,927]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1320 ms 
+[2026-08-21 09:27:22,929]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@2201f5be{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-21 09:27:22,945]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-08-21 09:27:22,946]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will be available on [http://youtrack-server:8080/bundle/starting] after start 
+[2026-08-21 09:27:23,103]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=81ms 
+[2026-08-21 09:27:23,121]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-21 09:27:23,133]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-08-21 09:27:23,134]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-08-21 09:27:23,435]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 301 ms 
+[2026-08-21 09:27:23,436]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@7e5da19{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-08-21 09:27:23,450]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-08-21 09:27:23,637]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=79ms 
+[2026-08-21 09:27:23,658]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-21 09:27:23,665]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-08-21 09:27:23,666]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-08-21 09:27:24,005]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 338 ms 
+[2026-08-21 09:27:24,013]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-08-21 09:27:24,014]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-08-21 09:27:24,016]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+[2026-08-21 09:27:24,017]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@16ff4096{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-08-21 09:27:24,038]   INFO -                 bundle.startup - Starting Hub 
+[2026-08-21 09:27:35,123]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@773d60b7{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-08-21 09:27:35,159]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-08-21 09:27:38,153]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-08-21 09:28:15,822]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@113dc9b0{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-08-21 09:28:18,417]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@37fc13c1{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-21 11:40:47,322]   INFO -                 bundle.startup - Stopping YouTrack 
+[2026-08-21 11:40:47,677]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@113dc9b0{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,STOPPED} 
+[2026-08-21 11:40:47,680]   INFO -                 bundle.startup - Stopping Bundle Hub Configurator 
+[2026-08-21 11:40:47,685]   INFO -                 bundle.startup - Stopping Hub 
+[2026-08-21 11:40:47,732]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@773d60b7{/hub,file:///opt/youtrack/apps/hub/web/,STOPPED} 
+[2026-08-21 11:40:47,732]   INFO -                 bundle.startup - Stopping YouTrack Configurator 
+[2026-08-21 11:40:47,735]   INFO - er.ContextHandler.bundle_admin - Destroying Spring FrameworkServlet 'AdminConsoleServletDispatcher' 
+[2026-08-21 11:40:47,739]   INFO - er.ContextHandler.bundle_admin - Closing Spring root WebApplicationContext 
+[2026-08-21 11:40:47,741]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@16ff4096{/bundle/admin,file:///opt/youtrack/internal/admin_console/,STOPPED} 
+[2026-08-21 11:40:47,742]   INFO -                 bundle.startup - Stopping Starting Page Service 
+[2026-08-21 11:40:47,743]   INFO - ContextHandler.bundle_starting - Destroying Spring FrameworkServlet 'StartingPageServletDispatcher' 
+[2026-08-21 11:40:47,747]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@7e5da19{/bundle/starting,file:///opt/youtrack/internal/starting_page/,STOPPED} 
+[2026-08-21 11:40:47,748]   INFO -                 bundle.startup - Stopping Bundle Backend Service 
+[2026-08-21 11:40:47,749]   INFO - .ContextHandler.bundle_backend - Destroying Spring FrameworkServlet 'BundleBackendServletDispatcher' 
+[2026-08-21 11:40:47,753]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@2201f5be{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,STOPPED} 
+[2026-08-21 11:40:47,753]   INFO -                 bundle.startup - Stopping Service-Container[bundleProcess] 
+[2026-08-21 11:40:47,760]   INFO - bundle.proxy.jetty.BundleProxy - Stopping Service-Container[bundleProcess] 
+[2026-08-21 11:40:47,764]   INFO - jetty.server.AbstractConnector - Stopped ServerConnector@48af2b24{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-21 11:40:47,764]   INFO - g.eclipse.jetty.server.session - node0 Stopped scavenging 
+[2026-08-24 12:13:32,881]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-08-24 12:13:32,883]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-08-24 12:13:32,937]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-08-24 12:13:32,985]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-08-24 12:13:33,039]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-08-24 12:13:33,076]   INFO -                 bundle.startup - Configuring Hub 
+[2026-08-24 12:13:33,401]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-08-24 12:13:33,403]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-08-24 12:13:33,657]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-08-24 12:13:33,697]   INFO -     org.eclipse.jetty.util.log - Logging initialized @2999ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-08-24 12:13:33,806]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-08-24 12:13:33,840]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-08-24 12:13:33,855]   INFO - jetty.server.AbstractConnector - Started ServerConnector@7019f07b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-24 12:13:33,857]   INFO - rg.eclipse.jetty.server.Server - Started @3159ms 
+[2026-08-24 12:13:33,872]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-08-24 12:13:34,144]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=144ms 
+[2026-08-24 12:13:34,269]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-24 12:13:34,294]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-08-24 12:13:34,295]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-08-24 12:13:34,297]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 600000ms 
+[2026-08-24 12:13:34,315]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-08-24 12:13:34,316]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-08-24 12:13:35,544]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1227 ms 
+[2026-08-24 12:13:35,545]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@46da827c{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-08-24 12:13:35,559]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-08-24 12:13:35,561]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will be available on [http://youtrack-server:8080/bundle/starting] after start 
+[2026-08-24 12:13:35,707]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=88ms 
+[2026-08-24 12:13:35,731]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-24 12:13:35,743]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-08-24 12:13:35,744]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-08-24 12:13:36,150]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 400 ms 
+[2026-08-24 12:13:36,151]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@f078b02{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-08-24 12:13:36,164]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-08-24 12:13:36,387]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=92ms 
+[2026-08-24 12:13:36,409]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-08-24 12:13:36,417]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-08-24 12:13:36,420]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-08-24 12:13:36,832]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 411 ms 
+[2026-08-24 12:13:36,839]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-08-24 12:13:36,840]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-08-24 12:13:36,842]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+[2026-08-24 12:13:36,844]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@27f44c31{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-08-24 12:13:36,858]   INFO -                 bundle.startup - Starting Hub 
+[2026-08-24 12:13:48,128]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@2e28621a{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-08-24 12:13:48,167]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-08-24 12:13:50,749]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-08-24 12:14:26,673]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@574446f0{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-08-24 12:14:29,407]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
+[2026-08-29 18:15:22,936]   INFO -                 bundle.startup - Stopping YouTrack 
+[2026-08-29 18:15:23,428]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@574446f0{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,STOPPED} 
+[2026-08-29 18:15:23,433]   INFO -                 bundle.startup - Stopping Bundle Hub Configurator 
+[2026-08-29 18:15:23,437]   INFO -                 bundle.startup - Stopping Hub 
+[2026-08-29 18:15:23,579]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@2e28621a{/hub,file:///opt/youtrack/apps/hub/web/,STOPPED} 
+[2026-08-29 18:15:23,581]   INFO -                 bundle.startup - Stopping YouTrack Configurator 
+[2026-08-29 18:15:23,594]   INFO - er.ContextHandler.bundle_admin - Destroying Spring FrameworkServlet 'AdminConsoleServletDispatcher' 
+[2026-08-29 18:15:23,613]   INFO - er.ContextHandler.bundle_admin - Closing Spring root WebApplicationContext 
+[2026-08-29 18:15:23,623]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@27f44c31{/bundle/admin,file:///opt/youtrack/internal/admin_console/,STOPPED} 
+[2026-08-29 18:15:23,625]   INFO -                 bundle.startup - Stopping Starting Page Service 
+[2026-08-29 18:15:23,628]   INFO - ContextHandler.bundle_starting - Destroying Spring FrameworkServlet 'StartingPageServletDispatcher' 
+[2026-08-29 18:15:23,642]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@f078b02{/bundle/starting,file:///opt/youtrack/internal/starting_page/,STOPPED} 
+[2026-08-29 18:15:23,644]   INFO -                 bundle.startup - Stopping Bundle Backend Service 
+[2026-08-29 18:15:23,647]   INFO - .ContextHandler.bundle_backend - Destroying Spring FrameworkServlet 'BundleBackendServletDispatcher' 
+[2026-08-29 18:15:23,662]   INFO - .server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@46da827c{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,STOPPED} 
+[2026-08-29 18:15:23,663]   INFO -                 bundle.startup - Stopping Service-Container[bundleProcess] 
+[2026-08-29 18:15:23,776]   INFO - bundle.proxy.jetty.BundleProxy - Stopping Service-Container[bundleProcess] 
+[2026-08-29 18:15:23,789]   INFO - jetty.server.AbstractConnector - Stopped ServerConnector@7019f07b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-08-29 18:15:23,790]   INFO - g.eclipse.jetty.server.session - node0 Stopped scavenging 
+[2026-09-01 07:40:07,431]   INFO -  com.jetbrains.bundle.Services - Versions of services bundled into JetBrains YouTrack 2026.2: 
+[hub->2026.2.52366] 
+[youtrack->2026.2.18194] 
+[bundle-platform->2.0.106] 
+[2026-09-01 07:40:07,432]   INFO -                 bundle.startup - Configuring Service-Container[bundleProcess] 
+[2026-09-01 07:40:07,488]   INFO -                 bundle.startup - Configuring Bundle Backend Service 
+[2026-09-01 07:40:07,512]   INFO -                 bundle.startup - Configuring Starting Page Service 
+[2026-09-01 07:40:07,551]   INFO -                 bundle.startup - Configuring YouTrack Configurator 
+[2026-09-01 07:40:07,597]   INFO -                 bundle.startup - Configuring Hub 
+[2026-09-01 07:40:07,878]   INFO -                 bundle.startup - Configuring Bundle Hub Configurator 
+[2026-09-01 07:40:07,879]   INFO -                 bundle.startup - Configuring YouTrack 
+[2026-09-01 07:40:08,073]   INFO -                 bundle.startup - Starting Service-Container[bundleProcess] 
+[2026-09-01 07:40:08,101]   INFO -     org.eclipse.jetty.util.log - Logging initialized @2653ms to org.eclipse.jetty.util.log.Slf4jLog 
+[2026-09-01 07:40:08,173]   INFO - rg.eclipse.jetty.server.Server - jetty-9.4.58.v20250814; built: 2025-08-14T02:28:49.637Z; git: 8f1440587e9e4ae7db3d74cf205643f3d707148d; jvm 21.0.12+8-LTS 
+[2026-09-01 07:40:08,209]   INFO - .server.handler.ContextHandler - Started c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,AVAILABLE} 
+[2026-09-01 07:40:08,224]   INFO - jetty.server.AbstractConnector - Started ServerConnector@7019f07b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+[2026-09-01 07:40:08,225]   INFO - rg.eclipse.jetty.server.Server - Started @2778ms 
+[2026-09-01 07:40:08,238]   INFO -                 bundle.startup - Starting Bundle Backend Service 
+[2026-09-01 07:40:08,467]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=128ms 
+[2026-09-01 07:40:08,586]   INFO - .ContextHandler.bundle_backend - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-09-01 07:40:08,608]   INFO - g.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0 
+[2026-09-01 07:40:08,609]   INFO - g.eclipse.jetty.server.session - No SessionScavenger set, using defaults 
+[2026-09-01 07:40:08,610]   INFO - g.eclipse.jetty.server.session - node0 Scavenging every 660000ms 
+[2026-09-01 07:40:08,624]   INFO - .ContextHandler.bundle_backend - Initializing Spring DispatcherServlet 'BundleBackendServletDispatcher' 
+[2026-09-01 07:40:08,625]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'BundleBackendServletDispatcher' 
+[2026-09-01 07:40:09,470]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 845 ms 
+[2026-09-01 07:40:09,471]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@46da827c{/bundle/backend,file:///opt/youtrack/internal/bundle_common/,AVAILABLE} 
+[2026-09-01 07:40:09,482]   INFO -                 bundle.startup - Starting Starting Page Service 
+[2026-09-01 07:40:09,483]   INFO -                 bundle.startup - JetBrains YouTrack 2026.2 will be available on [http://youtrack-server:8080/bundle/starting] after start 
+[2026-09-01 07:40:09,667]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=124ms 
+[2026-09-01 07:40:09,714]   INFO - ContextHandler.bundle_starting - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-09-01 07:40:09,740]   INFO - ContextHandler.bundle_starting - Initializing Spring DispatcherServlet 'StartingPageServletDispatcher' 
+[2026-09-01 07:40:09,741]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'StartingPageServletDispatcher' 
+[2026-09-01 07:40:10,212]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 469 ms 
+[2026-09-01 07:40:10,214]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@f078b02{/bundle/starting,file:///opt/youtrack/internal/starting_page/,AVAILABLE} 
+[2026-09-01 07:40:10,225]   INFO -                 bundle.startup - Starting YouTrack Configurator 
+[2026-09-01 07:40:10,405]   INFO - ations.AnnotationConfiguration - Scanning elapsed time=78ms 
+[2026-09-01 07:40:10,430]   INFO - er.ContextHandler.bundle_admin - 1 Spring WebApplicationInitializers detected on classpath 
+[2026-09-01 07:40:10,447]   INFO - er.ContextHandler.bundle_admin - Initializing Spring root WebApplicationContext 
+[2026-09-01 07:40:10,448]   INFO - work.web.context.ContextLoader - Root WebApplicationContext: initialization started 
+[2026-09-01 07:40:10,920]   INFO - work.web.context.ContextLoader - Root WebApplicationContext initialized in 471 ms 
+[2026-09-01 07:40:10,926]   INFO - er.ContextHandler.bundle_admin - Initializing Spring DispatcherServlet 'AdminConsoleServletDispatcher' 
+[2026-09-01 07:40:10,927]   INFO - .web.servlet.DispatcherServlet - Initializing Servlet 'AdminConsoleServletDispatcher' 
+[2026-09-01 07:40:10,929]   INFO - .web.servlet.DispatcherServlet - Completed initialization in 1 ms 
+[2026-09-01 07:40:10,929]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@27f44c31{/bundle/admin,file:///opt/youtrack/internal/admin_console/,AVAILABLE} 
+[2026-09-01 07:40:10,941]   INFO -                 bundle.startup - Starting Hub 
+[2026-09-01 07:40:24,210]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb2da46{/hub,file:///opt/youtrack/apps/hub/web/,AVAILABLE} 
+[2026-09-01 07:40:24,286]   INFO -                 bundle.startup - Starting Bundle Hub Configurator 
+[2026-09-01 07:40:27,564]   INFO -                 bundle.startup - Starting YouTrack 
+[2026-09-01 07:41:07,890]   INFO - .server.handler.ContextHandler - Started o.e.j.w.WebAppContext@204b06b9{YouTrack,/,file:///opt/youtrack/apps/youtrack/web/,AVAILABLE} 
+[2026-09-01 07:41:10,480]   INFO - .server.handler.ContextHandler - Stopped c.j.b.p.j.@70792082{/,file:///opt/youtrack/internal/error_pages/,STOPPED} 
