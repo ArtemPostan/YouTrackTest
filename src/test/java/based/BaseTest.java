@@ -11,7 +11,7 @@ import java.time.Duration;
 @ExtendWith(ScreenshotExtension.class)
 public class BaseTest {
     protected WebDriver driver;
-    protected final String BASE_URL = "http://localhost:8080";
+    protected final String BASE_URL = System.getProperty("base.url", "http://localhost:8080");
 
     @BeforeEach
     public void setUp() {

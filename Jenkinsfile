@@ -10,7 +10,7 @@ pipeline {
 
         stage('Run Tests') {
             steps {
-                sh 'mvn clean test'
+                sh 'mvn clean test -Dbase.uri=http://host.docker.internal:8080 -Dbase.url=http://host.docker.internal:8080 -Dgrid.url=http://host.docker.internal:4444/'
             }
         }
     }

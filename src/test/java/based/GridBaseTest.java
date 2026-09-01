@@ -13,7 +13,7 @@ import java.net.URL;
 public class GridBaseTest {
     protected static ThreadLocal<WebDriver> driverThread = new ThreadLocal<>();
 
-    protected final String BASE_URL = "http://youtrack-server:8080";
+    protected final String BASE_URL = System.getProperty("base.url", "http://localhost:8080");
 
 
     @BeforeEach
@@ -21,7 +21,7 @@ public class GridBaseTest {
         ChromeOptions options = new ChromeOptions();
 
         // Указываем адрес нашего Selenium Grid Hub в Docker
-        URL gridUrl = new URL("http://localhost:4444/");
+        URL gridUrl = new URL(System.getProperty("grid.url", "http://localhost:4444/"));
 
         // Создаем удаленный драйвер
         WebDriver driver = new RemoteWebDriver(gridUrl, options);
